@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cp ~/git/zambia-paper/data/clean/district-configuration.csv .
 cp ~/git/zambia-paper/data/clean/facility-accessibility.csv .
 cp ~/git/zambia-paper/data/clean/facility-deliveries.csv .
 cp ~/git/zambia-paper/data/clean/facility-reports.csv .
