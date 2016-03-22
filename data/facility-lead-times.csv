@@ -1,0 +1,2034 @@
+district,facility,start_date,end_date,lead_time
+chama dho,chigoma,2009-07-16,2009-07-29,13
+chama dho,chigoma,2009-08-13,2009-08-19,6
+chama dho,chigoma,2009-09-10,2009-09-17,7
+chama dho,chigoma,2009-10-15,2009-11-04,20
+chama dho,chigoma,2009-11-12,2009-12-14,32
+chama dho,chigoma,2009-12-10,2009-12-14,4
+chama dho,chigoma,2010-01-13,2010-04-23,100
+chama dho,chigoma,2010-02-10,2010-04-23,72
+chama dho,chigoma,2010-03-11,2010-04-23,43
+chama dho,chigoma,2010-04-15,2010-04-23,8
+chama dho,fulaza,2009-07-16,2009-07-29,13
+chama dho,fulaza,2009-08-13,2009-09-17,35
+chama dho,fulaza,2009-09-10,2009-09-17,7
+chama dho,fulaza,2009-10-15,2009-11-04,20
+chama dho,fulaza,2009-11-12,2009-11-25,13
+chama dho,fulaza,2009-12-10,2010-04-23,134
+chama dho,fulaza,2010-01-13,2010-04-23,100
+chama dho,fulaza,2010-02-10,2010-04-23,72
+chama dho,fulaza,2010-03-11,2010-04-23,43
+chama dho,fulaza,2010-04-15,2010-04-23,8
+chama dho,pondo,2009-07-16,2009-07-28,12
+chama dho,pondo,2009-08-13,2009-08-20,7
+chama dho,pondo,2009-09-10,2009-09-17,7
+chama dho,pondo,2009-10-15,2009-11-04,20
+chama dho,pondo,2009-11-12,2009-11-25,13
+chama dho,pondo,2009-12-10,2010-04-20,131
+chama dho,pondo,2010-01-13,2010-04-20,97
+chama dho,pondo,2010-02-10,2010-04-20,69
+chama dho,pondo,2010-03-11,2010-04-20,40
+chama dho,pondo,2010-04-15,2010-04-20,5
+chama dho,chifunda,2009-07-16,2009-07-29,13
+chama dho,chifunda,2009-08-13,2009-08-20,7
+chama dho,chifunda,2009-09-10,2009-09-17,7
+chama dho,chifunda,2009-10-15,2009-10-21,6
+chama dho,chifunda,2009-11-12,2009-12-14,32
+chama dho,chifunda,2009-12-10,2009-12-14,4
+chama dho,chifunda,2010-01-13,2010-04-01,78
+chama dho,chifunda,2010-02-10,2010-04-01,50
+chama dho,chifunda,2010-03-11,2010-04-01,21
+chama dho,mapamba,2009-07-16,2009-07-29,13
+chama dho,mapamba,2009-08-13,2009-08-20,7
+chama dho,mapamba,2009-09-10,2009-09-17,7
+chama dho,mapamba,2009-10-15,2009-10-29,14
+chama dho,mapamba,2009-11-12,2010-04-20,159
+chama dho,mapamba,2009-12-10,2010-04-20,131
+chama dho,mapamba,2010-01-13,2010-04-20,97
+chama dho,mapamba,2010-02-10,2010-04-20,69
+chama dho,mapamba,2010-03-11,2010-04-20,40
+chama dho,mapamba,2010-04-15,2010-04-20,5
+chama dho,chikwa,2009-07-16,2009-07-31,15
+chama dho,chikwa,2009-08-13,2009-08-19,6
+chama dho,chikwa,2009-09-10,2009-09-17,7
+chama dho,chikwa,2009-10-15,2009-10-21,6
+chama dho,chikwa,2009-11-12,2009-12-14,32
+chama dho,chikwa,2009-12-10,2009-12-14,4
+chama dho,chikwa,2010-01-13,2010-04-23,100
+chama dho,chikwa,2010-02-10,2010-04-23,72
+chama dho,chikwa,2010-03-11,2010-04-23,43
+chama dho,chikwa,2010-04-15,2010-04-23,8
+chama dho,kapichilasenga,2009-07-16,2009-07-28,12
+chama dho,kapichilasenga,2009-08-13,2009-08-19,6
+chama dho,kapichilasenga,2009-09-10,2009-09-15,5
+chama dho,kapichilasenga,2009-10-15,2009-10-17,2
+chama dho,kapichilasenga,2009-11-12,2009-12-12,30
+chama dho,kapichilasenga,2009-12-10,2009-12-12,2
+chama dho,kapichilasenga,2010-01-13,2010-04-19,96
+chama dho,kapichilasenga,2010-02-10,2010-04-19,68
+chama dho,kapichilasenga,2010-03-11,2010-04-19,39
+chama dho,kapichilasenga,2010-04-15,2010-04-19,4
+chama dho,buli,2009-07-16,2009-07-28,12
+chama dho,buli,2009-08-13,2009-08-18,5
+chama dho,buli,2009-09-10,2009-09-14,4
+chama dho,buli,2009-10-15,2009-10-17,2
+chama dho,buli,2009-11-12,2009-12-12,30
+chama dho,buli,2009-12-10,2009-12-12,2
+chama dho,buli,2010-01-13,2010-04-19,96
+chama dho,buli,2010-02-10,2010-04-19,68
+chama dho,buli,2010-03-11,2010-04-19,39
+chama dho,buli,2010-04-15,2010-04-19,4
+chama dho,kambombo,2009-07-16,2009-07-27,11
+chama dho,kambombo,2009-08-13,2009-09-21,39
+chama dho,kambombo,2009-09-10,2009-09-21,11
+chama dho,kambombo,2009-10-15,2009-12-11,57
+chama dho,kambombo,2009-11-12,2009-12-11,29
+chama dho,kambombo,2009-12-10,2009-12-11,1
+chama dho,kambombo,2010-01-13,2010-04-26,103
+chama dho,kambombo,2010-02-10,2010-04-26,75
+chama dho,kambombo,2010-03-11,2010-04-26,46
+chama dho,kambombo,2010-04-15,2010-04-26,11
+chama dho,mphyanakunda,2009-07-16,2009-08-05,20
+chama dho,mphyanakunda,2009-08-13,2009-09-21,39
+chama dho,mphyanakunda,2009-09-10,2009-09-21,11
+chama dho,mphyanakunda,2009-10-15,2009-11-19,35
+chama dho,mphyanakunda,2009-11-12,2009-11-19,7
+chama dho,mphyanakunda,2009-12-10,2010-04-21,132
+chama dho,mphyanakunda,2010-01-13,2010-04-21,98
+chama dho,mphyanakunda,2010-02-10,2010-04-21,70
+chama dho,mphyanakunda,2010-03-11,2010-04-21,41
+chama dho,mphyanakunda,2010-04-15,2010-04-21,6
+chama dho,nthonkho,2009-07-16,2009-07-27,11
+chama dho,nthonkho,2009-08-13,2009-08-14,1
+chama dho,nthonkho,2009-09-10,2009-09-21,11
+chama dho,nthonkho,2009-10-15,2009-12-11,57
+chama dho,nthonkho,2009-11-12,2009-12-11,29
+chama dho,nthonkho,2009-12-10,2009-12-11,1
+chama dho,nthonkho,2010-01-13,2010-04-29,106
+chama dho,nthonkho,2010-02-10,2010-04-29,78
+chama dho,nthonkho,2010-03-11,2010-04-29,49
+chama dho,nthonkho,2010-04-15,2010-04-29,14
+chama dho,sitwe,2009-07-16,2009-07-27,11
+chama dho,sitwe,2009-08-13,2009-08-28,15
+chama dho,sitwe,2009-09-10,2009-09-21,11
+chama dho,sitwe,2009-10-15,2009-10-19,4
+chama dho,sitwe,2009-11-12,2010-04-29,168
+chama dho,sitwe,2009-12-10,2010-04-29,140
+chama dho,sitwe,2010-01-13,2010-04-29,106
+chama dho,sitwe,2010-02-10,2010-04-29,78
+chama dho,sitwe,2010-03-11,2010-04-29,49
+chama dho,sitwe,2010-04-15,2010-04-29,14
+chama dho,tembwe,2009-07-16,2009-07-28,12
+chama dho,tembwe,2009-08-13,2009-08-19,6
+chama dho,tembwe,2009-09-10,2009-09-15,5
+chama dho,tembwe,2009-10-15,2009-10-17,2
+chama dho,tembwe,2009-11-12,2009-12-12,30
+chama dho,tembwe,2009-12-10,2009-12-12,2
+chama dho,tembwe,2010-01-13,2010-04-19,96
+chama dho,tembwe,2010-02-10,2010-04-19,68
+chama dho,tembwe,2010-03-11,2010-04-19,39
+chama dho,tembwe,2010-04-15,2010-04-19,4
+chama dho,kanyelele,2009-07-16,2009-09-14,60
+chama dho,kanyelele,2009-08-13,2009-09-14,32
+chama dho,kanyelele,2009-09-10,2009-09-14,4
+chama dho,kanyelele,2009-10-15,2009-11-09,25
+chama dho,kanyelele,2009-11-12,2009-11-20,8
+chama dho,kanyelele,2009-12-10,2009-12-17,7
+chama dho,kanyelele,2010-01-13,2010-02-15,33
+chama dho,kanyelele,2010-02-10,2010-02-15,5
+chama dho,kanyelele,2010-03-11,2010-03-15,4
+chama dho,kanyelele,2010-04-15,2010-04-27,12
+chama dho,chibale,2009-07-16,2009-08-06,21
+chama dho,chibale,2009-08-13,2009-08-26,13
+chama dho,chibale,2009-09-10,2009-09-15,5
+chama dho,chibale,2009-10-15,2009-10-28,13
+chama dho,chibale,2009-11-12,2009-12-02,20
+chama dho,chibale,2009-12-10,2009-12-12,2
+chama dho,chibale,2010-01-13,2010-02-22,40
+chama dho,chibale,2010-02-10,2010-02-22,12
+chama dho,chibale,2010-03-11,2010-03-19,8
+chama dho,chibale,2010-04-15,2010-04-27,12
+chama dho,mulilo,2009-07-16,2009-08-23,38
+chama dho,mulilo,2009-08-13,2009-08-23,10
+chama dho,mulilo,2009-09-10,2009-09-14,4
+chama dho,mulilo,2009-10-15,2009-10-28,13
+chama dho,mulilo,2009-11-12,2009-12-12,30
+chama dho,mulilo,2009-12-10,2009-12-12,2
+chama dho,mulilo,2010-01-13,2010-04-27,104
+chama dho,mulilo,2010-02-10,2010-04-27,76
+chama dho,mulilo,2010-03-11,2010-04-27,47
+chama dho,mulilo,2010-04-15,2010-04-27,12
+chama dho,chilubanama,2009-07-16,2009-08-24,39
+chama dho,chilubanama,2009-08-13,2009-08-24,11
+chama dho,chilubanama,2009-09-10,2009-09-16,6
+chama dho,chilubanama,2009-10-15,2009-11-05,21
+chama dho,chilubanama,2009-11-12,2009-11-20,8
+chama dho,chilubanama,2009-12-10,2009-12-14,4
+chama dho,chilubanama,2010-01-13,2010-01-27,14
+chama dho,chilubanama,2010-02-10,2010-03-01,19
+chama dho,chilubanama,2010-03-11,2010-03-20,9
+chama dho,lundu,2009-07-16,2009-08-24,39
+chama dho,lundu,2009-08-13,2009-08-24,11
+chama dho,lundu,2009-09-10,2009-09-17,7
+chama dho,lundu,2009-10-15,2009-10-27,12
+chama dho,lundu,2009-11-12,2009-12-15,33
+chama dho,lundu,2009-12-10,2009-12-15,5
+chama dho,lundu,2010-01-13,2010-03-03,49
+chama dho,lundu,2010-02-10,2010-03-03,21
+chama dho,lundu,2010-03-11,2010-04-28,48
+chama dho,lundu,2010-04-15,2010-04-28,13
+chama dho,kambwili,2009-08-13,2009-08-28,15
+chama dho,kambwili,2009-09-10,2009-09-21,11
+chama dho,kambwili,2009-10-15,2009-12-11,57
+chama dho,kambwili,2009-11-12,2009-12-11,29
+chama dho,kambwili,2009-12-10,2009-12-11,1
+chama dho,kambwili,2010-01-13,2010-04-26,103
+chama dho,kambwili,2010-02-10,2010-04-26,75
+chama dho,kambwili,2010-03-11,2010-04-26,46
+chama dho,kambwili,2010-04-15,2010-04-26,11
+chavuma dho,chivombo,2009-04-18,2009-04-23,5
+chavuma dho,chivombo,2009-05-14,2009-05-21,7
+chavuma dho,chivombo,2009-06-11,2009-06-18,7
+chavuma dho,chivombo,2009-07-16,2009-07-24,8
+chavuma dho,chivombo,2009-08-13,2009-08-28,15
+chavuma dho,chivombo,2009-09-10,2009-09-17,7
+chavuma dho,chivombo,2009-10-15,2009-10-19,4
+chavuma dho,chivombo,2009-11-12,2009-11-20,8
+chavuma dho,chivombo,2009-12-10,2009-12-28,18
+chavuma dho,chivombo,2010-01-14,2010-01-22,8
+chavuma dho,chivombo,2010-02-11,2010-02-17,6
+chavuma dho,chivombo,2010-03-12,2010-04-26,45
+chavuma dho,chivombo,2010-04-15,2010-04-26,11
+chavuma dho,lukolwe mission,2009-05-14,2009-05-21,7
+chavuma dho,lukolwe mission,2009-06-11,2009-06-19,8
+chavuma dho,lukolwe mission,2009-07-16,2009-07-25,9
+chavuma dho,lukolwe mission,2009-08-13,2009-08-27,14
+chavuma dho,lukolwe mission,2009-09-10,2009-09-25,15
+chavuma dho,lukolwe mission,2009-10-15,2009-10-22,7
+chavuma dho,lukolwe mission,2009-11-12,2009-11-13,1
+chavuma dho,lukolwe mission,2009-12-10,2009-12-31,21
+chavuma dho,lukolwe mission,2010-01-14,2010-03-22,67
+chavuma dho,lukolwe mission,2010-02-11,2010-03-22,39
+chavuma dho,lukolwe mission,2010-03-12,2010-03-22,10
+chavuma dho,chiyeke,2009-05-14,2009-05-19,5
+chavuma dho,chiyeke,2009-06-11,2009-06-22,11
+chavuma dho,chiyeke,2009-07-16,2009-07-27,11
+chavuma dho,chiyeke,2009-08-13,2009-08-18,5
+chavuma dho,chiyeke,2009-09-10,2009-09-18,8
+chavuma dho,chiyeke,2009-10-15,2009-11-13,29
+chavuma dho,chiyeke,2009-11-12,2009-11-13,1
+chavuma dho,chiyeke,2009-12-10,2009-12-25,15
+chavuma dho,chiyeke,2010-01-14,2010-01-22,8
+chavuma dho,chiyeke,2010-02-11,2010-02-13,2
+chavuma dho,chiyeke,2010-03-12,2010-04-18,37
+chavuma dho,chiyeke,2010-04-15,2010-04-18,3
+chavuma dho,chingi,2009-05-14,2009-05-15,1
+chavuma dho,chingi,2009-06-11,2009-06-17,6
+chavuma dho,chingi,2009-07-16,2009-07-27,11
+chavuma dho,chingi,2009-08-13,2009-08-18,5
+chavuma dho,chingi,2009-09-10,2009-09-18,8
+chavuma dho,chingi,2009-10-15,2009-10-19,4
+chavuma dho,chingi,2009-11-12,2009-11-19,7
+chavuma dho,chingi,2009-12-10,2009-12-28,18
+chavuma dho,chingi,2010-01-14,2010-01-22,8
+chavuma dho,chingi,2010-02-11,2010-02-17,6
+chavuma dho,chingi,2010-03-12,2010-03-24,12
+chavuma dho,chingi,2010-04-15,2010-04-21,6
+chavuma dho,nyatanda,2009-05-14,2009-06-25,42
+chavuma dho,nyatanda,2009-06-11,2009-06-25,14
+chavuma dho,nyatanda,2009-07-16,2009-07-28,12
+chavuma dho,nyatanda,2009-08-13,2009-08-26,13
+chavuma dho,nyatanda,2009-09-10,2009-09-22,12
+chavuma dho,nyatanda,2009-10-15,2009-10-27,12
+chavuma dho,nyatanda,2009-11-12,2009-11-25,13
+chavuma dho,nyatanda,2009-12-10,2009-12-29,19
+chavuma dho,nyatanda,2010-01-14,2010-01-27,13
+chavuma dho,nguvu,2009-07-16,2009-07-28,12
+chavuma dho,nguvu,2009-08-13,2009-09-23,41
+chavuma dho,nguvu,2009-09-10,2009-09-23,13
+chavuma dho,nguvu,2009-10-15,2009-10-28,13
+chavuma dho,nguvu,2009-11-12,2009-11-26,14
+chavuma dho,nguvu,2009-12-10,2009-12-29,19
+kaoma dho,luena camp,2009-08-13,2009-09-04,22
+kaoma dho,luena camp,2009-09-10,2009-10-16,36
+kaoma dho,luena camp,2009-10-15,2009-10-16,1
+kaoma dho,luena camp,2009-11-12,2009-11-26,14
+kaoma dho,luena camp,2009-12-10,2009-12-24,14
+kaoma dho,luena camp,2010-01-20,2010-01-22,2
+kaoma dho,luena camp,2010-02-17,2010-03-16,27
+kaoma dho,luena camp,2010-03-17,2010-04-02,16
+kaoma dho,luena camp,2010-04-21,2010-04-22,1
+kaoma dho,nkenga,2009-08-13,2009-09-08,26
+kaoma dho,nkenga,2009-09-10,2009-11-19,70
+kaoma dho,nkenga,2009-10-15,2009-11-19,35
+kaoma dho,nkenga,2009-11-12,2009-11-19,7
+kaoma dho,nkenga,2009-12-10,2010-01-21,42
+kaoma dho,nkenga,2010-01-20,2010-01-21,1
+kaoma dho,nkenga,2010-02-17,2010-03-11,22
+kaoma dho,kahare,2009-08-13,2009-09-15,33
+kaoma dho,kahare,2009-09-10,2009-09-15,5
+kaoma dho,kahare,2009-10-15,2009-11-26,42
+kaoma dho,kahare,2009-11-12,2009-11-26,14
+kaoma dho,kahare,2009-12-10,2009-12-30,20
+kaoma dho,kahare,2010-01-20,2010-03-19,58
+kaoma dho,kahare,2010-02-17,2010-03-19,30
+kaoma dho,kahare,2010-03-17,2010-03-19,2
+kaoma dho,kahare,2010-04-21,2010-04-23,2
+kaoma dho,njonjolo,2009-08-13,2009-09-04,22
+kaoma dho,njonjolo,2009-09-10,2009-12-02,83
+kaoma dho,njonjolo,2009-10-15,2009-12-02,48
+kaoma dho,njonjolo,2009-11-12,2009-12-02,20
+kaoma dho,njonjolo,2009-12-10,2009-12-29,19
+kaoma dho,njonjolo,2010-01-20,2010-01-25,5
+kaoma dho,njonjolo,2010-02-17,2010-03-19,30
+kaoma dho,njonjolo,2010-03-17,2010-03-19,2
+kaoma dho,namilangi,2009-08-13,2009-09-04,22
+kaoma dho,namilangi,2009-09-10,2009-09-15,5
+kaoma dho,namilangi,2009-10-15,2009-10-30,15
+kaoma dho,namilangi,2009-11-12,2009-12-08,26
+kaoma dho,namilangi,2009-12-10,2010-02-18,70
+kaoma dho,namilangi,2010-01-20,2010-02-18,29
+kaoma dho,namilangi,2010-02-17,2010-02-18,1
+kaoma dho,namilangi,2010-03-17,2010-03-19,2
+kaoma dho,namilangi,2010-04-21,2010-04-22,1
+kaoma dho,kabilamwandi,2009-09-10,2009-09-15,5
+kaoma dho,kabilamwandi,2009-10-15,2009-12-12,58
+kaoma dho,kabilamwandi,2009-11-12,2009-12-12,30
+kaoma dho,kabilamwandi,2009-12-10,2009-12-12,2
+kaoma dho,kabilamwandi,2010-01-20,2010-02-17,28
+kaoma dho,kabilamwandi,2010-02-17,2010-04-09,51
+kaoma dho,kabilamwandi,2010-03-17,2010-04-09,23
+kaoma dho,winda,2009-09-10,2009-09-15,5
+kaoma dho,winda,2009-10-15,2009-11-13,29
+kaoma dho,winda,2009-11-12,2009-11-13,1
+kaoma dho,winda,2009-12-10,2009-12-12,2
+kaoma dho,winda,2010-01-20,2010-03-11,50
+kaoma dho,winda,2010-02-17,2010-03-11,22
+kaoma dho,winda,2010-03-17,2010-04-01,15
+kaoma dho,nakayembe,2009-09-10,2009-12-03,84
+kaoma dho,nakayembe,2009-10-15,2009-12-03,49
+kaoma dho,nakayembe,2009-11-12,2009-12-03,21
+kaoma dho,nakayembe,2009-12-10,2010-01-16,37
+kaoma dho,nakayembe,2010-01-20,2010-03-18,57
+kaoma dho,nakayembe,2010-02-17,2010-03-18,29
+kaoma dho,nakayembe,2010-03-17,2010-03-18,1
+kaoma dho,nakayembe,2010-04-21,2010-04-27,6
+kaoma dho,afumba,2009-09-10,2009-12-25,106
+kaoma dho,afumba,2009-10-15,2009-12-25,71
+kaoma dho,afumba,2009-11-12,2009-12-25,43
+kaoma dho,afumba,2009-12-10,2009-12-25,15
+kaoma dho,afumba,2010-01-20,2010-01-23,3
+kaoma dho,afumba,2010-02-17,2010-03-13,24
+kaoma dho,afumba,2010-03-17,2010-04-20,34
+kaoma dho,mayukwayukwa 1,2009-09-10,2010-02-21,164
+kaoma dho,mayukwayukwa 1,2009-10-15,2010-02-21,129
+kaoma dho,mayukwayukwa 1,2009-11-12,2010-02-21,101
+kaoma dho,mayukwayukwa 1,2009-12-10,2010-02-21,73
+kaoma dho,mayukwayukwa 1,2010-01-20,2010-02-21,32
+kaoma dho,mayukwayukwa 1,2010-02-17,2010-02-21,4
+kaoma dho,mayukwayukwa 1,2010-03-17,2010-04-01,15
+kaoma dho,kaoma district hospital,2009-09-10,2009-09-14,4
+kaoma dho,luampa,2009-09-10,2009-10-29,49
+kaoma dho,luampa,2009-10-15,2009-10-29,14
+kaoma dho,luampa,2009-11-12,2009-11-19,7
+kaoma dho,luampa,2009-12-10,2009-12-29,19
+kaoma dho,luampa,2010-01-20,2010-01-26,6
+kaoma dho,luampa,2010-02-17,2010-03-13,24
+kaoma dho,mangango,2009-09-10,2009-09-14,4
+kaoma dho,mangango,2009-10-15,2009-10-20,5
+kaoma dho,mangango,2009-11-12,2009-11-20,8
+kaoma dho,mangango,2009-12-10,2009-12-29,19
+kaoma dho,mangango,2010-01-20,2010-03-17,56
+kaoma dho,mangango,2010-02-17,2010-03-17,28
+kaoma dho,mangango,2010-03-17,2010-04-20,34
+kaoma dho,kaoma urban,2009-09-10,2009-09-18,8
+kaoma dho,kaoma urban,2009-10-15,2009-10-29,14
+kaoma dho,kaoma urban,2009-11-12,2009-12-24,42
+kaoma dho,kaoma urban,2009-12-10,2009-12-24,14
+kaoma dho,kaoma urban,2010-01-20,2010-01-22,2
+kaoma dho,kaoma urban,2010-02-17,2010-03-16,27
+kaoma dho,kaoma urban,2010-03-17,2010-04-20,34
+kaoma dho,mulamba,2009-09-10,2009-10-30,50
+kaoma dho,mulamba,2009-10-15,2009-10-30,15
+kaoma dho,mulamba,2009-11-12,2009-12-24,42
+kaoma dho,mulamba,2009-12-10,2009-12-24,14
+kaoma dho,mulamba,2010-01-20,2010-01-22,2
+kaoma dho,mulamba,2010-02-17,2010-03-16,27
+kaoma dho,mulamba,2010-03-17,2010-04-20,34
+kaoma dho,longe,2009-09-10,2009-10-13,33
+kaoma dho,longe,2009-10-15,2009-10-19,4
+kaoma dho,nkeyema,2009-09-10,2009-09-18,8
+kaoma dho,nkeyema,2009-10-15,2009-10-23,8
+kaoma dho,nkeyema,2009-11-12,2009-12-05,23
+kaoma dho,nkeyema,2009-12-10,2009-12-29,19
+kaoma dho,nkeyema,2010-01-20,2010-02-15,26
+kaoma dho,nkeyema,2010-02-17,2010-03-15,26
+kaoma dho,nkeyema,2010-03-17,2010-03-19,2
+kaoma dho,nkeyema,2010-04-21,2010-04-23,2
+kaoma dho,kaaba,2009-09-10,2009-09-29,19
+kaoma dho,kaaba,2009-10-15,2009-11-23,39
+kaoma dho,kaaba,2009-11-12,2009-11-23,11
+kaoma dho,kaaba,2009-12-10,2009-12-23,13
+kaoma dho,kaaba,2010-01-20,2010-02-15,26
+kaoma dho,kaaba,2010-02-17,2010-04-01,43
+kaoma dho,kaaba,2010-03-17,2010-04-01,15
+kaoma dho,kaaba,2010-04-21,2010-04-26,5
+kaoma dho,mulwa,2009-09-10,2009-10-08,28
+kaoma dho,mulwa,2009-10-15,2009-12-03,49
+kaoma dho,mulwa,2009-11-12,2009-12-03,21
+kaoma dho,mulwa,2009-12-10,2010-01-16,37
+kaoma dho,mulwa,2010-01-20,2010-02-17,28
+kaoma dho,mulwa,2010-02-17,2010-03-11,22
+kaoma dho,mulwa,2010-03-17,2010-03-18,1
+kaoma dho,mulwa,2010-04-21,2010-04-27,6
+kaoma dho,kasimba,2009-09-10,2009-12-31,112
+kaoma dho,kasimba,2009-10-15,2009-12-31,77
+kaoma dho,kasimba,2009-11-12,2009-12-31,49
+kaoma dho,kasimba,2009-12-10,2009-12-31,21
+kaoma dho,kasimba,2010-01-20,2010-01-22,2
+kaoma dho,kasimba,2010-02-17,2010-03-12,23
+kaoma dho,kasimba,2010-03-17,2010-03-18,1
+kaoma dho,katunda,2009-09-10,2009-09-16,6
+kaoma dho,katunda,2009-10-15,2009-11-19,35
+kaoma dho,katunda,2009-11-12,2009-11-19,7
+kaoma dho,katunda,2009-12-10,2009-12-11,1
+kaoma dho,katunda,2010-01-20,2010-01-25,5
+kaoma dho,katunda,2010-02-17,2010-03-19,30
+kaoma dho,katunda,2010-03-17,2010-03-19,2
+kaoma dho,katunda,2010-04-21,2010-04-26,5
+kaoma dho,nyambi 1,2009-09-10,2009-11-24,75
+kaoma dho,nyambi 1,2009-10-15,2009-11-24,40
+kaoma dho,nyambi 1,2009-11-12,2009-11-24,12
+kaoma dho,nyambi 1,2009-12-10,2009-12-25,15
+kaoma dho,nyambi 1,2010-01-20,2010-01-23,3
+kaoma dho,nyambi 1,2010-02-17,2010-03-13,24
+kaoma dho,nyambi 2,2009-09-10,2009-12-25,106
+kaoma dho,nyambi 2,2009-10-15,2009-12-25,71
+kaoma dho,nyambi 2,2009-11-12,2009-12-25,43
+kaoma dho,nyambi 2,2009-12-10,2009-12-25,15
+kaoma dho,nyambi 2,2010-01-20,2010-01-23,3
+kaoma dho,nyambi 2,2010-02-17,2010-03-13,24
+kaoma dho,nyambi 2,2010-03-17,2010-04-20,34
+kaoma dho,lui,2009-10-15,2010-01-21,98
+kaoma dho,lui,2009-11-12,2010-01-21,70
+kaoma dho,lui,2009-12-10,2010-01-21,42
+kaoma dho,lui,2010-01-20,2010-01-21,1
+kaoma dho,lui,2010-02-17,2010-03-18,29
+kaoma dho,lui,2010-03-17,2010-03-18,1
+kaoma dho,lui,2010-04-21,2010-04-26,5
+kaoma dho,zns mangango,2009-10-15,2009-10-29,14
+kaoma dho,zns mangango,2009-11-12,2009-11-16,4
+kaoma dho,zns mangango,2009-12-10,2009-12-29,19
+kaoma dho,zns mangango,2010-01-20,2010-01-25,5
+kaoma dho,chitwa,2009-10-15,2009-11-27,43
+kaoma dho,chitwa,2009-11-12,2009-11-27,15
+kaoma dho,chitwa,2009-12-10,2009-12-31,21
+kaoma dho,chitwa,2010-01-20,2010-01-22,2
+kaoma dho,chitwa,2010-02-17,2010-03-12,23
+kaoma dho,chitwa,2010-03-17,2010-03-18,1
+kaoma dho,mayukwayukwa 2 (aha),2009-10-15,2009-12-29,75
+kaoma dho,mayukwayukwa 2 (aha),2009-11-12,2009-12-29,47
+kaoma dho,mayukwayukwa 2 (aha),2009-12-10,2009-12-29,19
+kaoma dho,mayukwayukwa 2 (aha),2010-01-20,2010-02-21,32
+kaoma dho,mayukwayukwa 2 (aha),2010-02-17,2010-02-21,4
+kaoma dho,mayukwayukwa 2 (aha),2010-03-17,2010-03-19,2
+kaoma dho,mbanyutu,2009-10-15,2009-11-23,39
+kaoma dho,mbanyutu,2009-11-12,2009-11-23,11
+kaoma dho,mbanyutu,2009-12-10,2010-03-18,98
+kaoma dho,mbanyutu,2010-01-20,2010-03-18,57
+kaoma dho,mbanyutu,2010-02-17,2010-03-18,29
+kaoma dho,mbanyutu,2010-03-17,2010-03-18,1
+kaoma dho,kasabi,2009-12-10,2009-12-23,13
+kaoma dho,kasabi,2010-01-20,2010-02-15,26
+kaoma dho,kasabi,2010-02-17,2010-04-01,43
+kaoma dho,kasabi,2010-03-17,2010-04-01,15
+kaoma dho,kasabi,2010-04-21,2010-04-26,5
+kaoma dho,mwanambuyu,2009-12-10,2010-01-21,42
+kaoma dho,mwanambuyu,2010-01-20,2010-01-21,1
+kaoma dho,mwanambuyu,2010-02-17,2010-04-09,51
+kaoma dho,mwanambuyu,2010-03-17,2010-04-09,23
+kaoma dho,mwanambuyu,2010-04-21,2010-04-26,5
+kaoma dho,kandende,2010-01-20,2010-04-23,93
+kaoma dho,kandende,2010-02-17,2010-04-23,65
+kaoma dho,kandende,2010-03-17,2010-04-23,37
+kaoma dho,kandende,2010-04-21,2010-04-23,2
+kasama dho,lukupa,2009-06-03,2009-06-18,15
+kasama dho,lukupa,2009-07-10,2009-08-19,40
+kasama dho,lukupa,2009-08-06,2009-08-19,13
+kasama dho,lukupa,2009-09-02,2009-09-22,20
+kasama dho,lukupa,2009-10-07,2009-10-26,19
+kasama dho,lukupa,2009-11-04,2009-11-25,21
+kasama dho,lukupa,2009-12-02,2009-12-29,27
+kasama dho,lukupa,2010-01-06,2010-02-01,26
+kasama dho,lukupa,2010-02-03,2010-02-26,23
+kasama dho,lukupa,2010-03-03,2010-03-22,19
+kasama dho,lukupa,2010-04-08,2010-04-22,14
+kasama dho,mwamba,2009-06-03,2009-06-18,15
+kasama dho,mwamba,2009-07-10,2009-08-19,40
+kasama dho,mwamba,2009-08-06,2009-08-19,13
+kasama dho,mwamba,2009-09-02,2009-09-22,20
+kasama dho,mwamba,2009-10-07,2009-10-26,19
+kasama dho,mwamba,2009-11-04,2009-11-25,21
+kasama dho,mwamba,2009-12-02,2009-12-29,27
+kasama dho,mwamba,2010-01-06,2010-02-01,26
+kasama dho,mwamba,2010-02-03,2010-02-26,23
+kasama dho,mwamba,2010-03-03,2010-03-22,19
+kasama dho,mwamba,2010-04-08,2010-04-22,14
+kasama dho,lukashi,2009-06-03,2009-06-18,15
+kasama dho,lukashi,2009-07-10,2009-08-19,40
+kasama dho,lukashi,2009-08-06,2009-08-19,13
+kasama dho,lukashi,2009-09-02,2009-09-22,20
+kasama dho,lukashi,2009-10-07,2009-10-26,19
+kasama dho,lukashi,2009-11-04,2009-11-25,21
+kasama dho,lukashi,2009-12-02,2009-12-29,27
+kasama dho,lukashi,2010-01-06,2010-02-01,26
+kasama dho,lukashi,2010-02-03,2010-03-22,47
+kasama dho,lukashi,2010-03-03,2010-03-22,19
+kasama dho,lukashi,2010-04-08,2010-04-22,14
+kasama dho,musa,2009-06-03,2009-06-30,27
+kasama dho,musa,2009-07-10,2009-07-27,17
+kasama dho,musa,2009-08-06,2009-09-03,28
+kasama dho,musa,2009-09-02,2009-09-03,1
+kasama dho,musa,2009-10-07,2009-10-31,24
+kasama dho,musa,2009-11-04,2009-12-01,27
+kasama dho,musa,2009-12-02,2009-12-30,28
+kasama dho,musa,2010-01-06,2010-01-24,18
+kasama dho,musa,2010-02-03,2010-03-28,53
+kasama dho,musa,2010-03-03,2010-03-28,25
+kasama dho,musa,2010-04-08,2010-04-16,8
+kasama dho,nkolemfumu,2009-06-03,2009-06-30,27
+kasama dho,nkolemfumu,2009-07-10,2009-07-27,17
+kasama dho,nkolemfumu,2009-08-06,2009-09-03,28
+kasama dho,nkolemfumu,2009-09-02,2009-09-03,1
+kasama dho,nkolemfumu,2009-10-07,2009-10-31,24
+kasama dho,nkolemfumu,2009-11-04,2009-12-01,27
+kasama dho,nkolemfumu,2009-12-02,2009-12-30,28
+kasama dho,nkolemfumu,2010-01-06,2010-01-24,18
+kasama dho,nkolemfumu,2010-02-03,2010-03-28,53
+kasama dho,nkolemfumu,2010-03-03,2010-03-28,25
+kasama dho,nkolemfumu,2010-04-08,2010-04-26,18
+kasama dho,chanda mukulu,2009-06-03,2009-06-30,27
+kasama dho,chanda mukulu,2009-07-10,2009-07-27,17
+kasama dho,chanda mukulu,2009-08-06,2009-09-03,28
+kasama dho,chanda mukulu,2009-09-02,2009-09-03,1
+kasama dho,chanda mukulu,2009-10-07,2009-10-31,24
+kasama dho,chanda mukulu,2009-11-04,2009-12-01,27
+kasama dho,chanda mukulu,2009-12-02,2009-12-30,28
+kasama dho,chanda mukulu,2010-01-06,2010-01-24,18
+kasama dho,chanda mukulu,2010-02-03,2010-03-28,53
+kasama dho,chanda mukulu,2010-03-03,2010-03-28,25
+kasama dho,chanda mukulu,2010-04-08,2010-04-16,8
+kasama dho,mulanshi,2009-06-03,2009-07-01,28
+kasama dho,mulanshi,2009-07-10,2009-07-28,18
+kasama dho,mulanshi,2009-08-06,2009-09-02,27
+kasama dho,mulanshi,2009-09-02,2009-09-03,1
+kasama dho,mulanshi,2009-10-07,2009-10-31,24
+kasama dho,mulanshi,2009-11-04,2009-12-02,28
+kasama dho,mulanshi,2009-12-02,2010-01-04,33
+kasama dho,mulanshi,2010-01-06,2010-01-25,19
+kasama dho,mulanshi,2010-02-03,2010-02-19,16
+kasama dho,mulanshi,2010-03-03,2010-03-26,23
+kasama dho,mulanshi,2010-04-08,2010-04-26,18
+kasama dho,mumbi mukulu,2009-06-03,2009-08-22,80
+kasama dho,mumbi mukulu,2009-07-10,2009-08-22,43
+kasama dho,mumbi mukulu,2009-08-06,2009-08-22,16
+kasama dho,mumbi mukulu,2009-09-02,2009-09-28,26
+kasama dho,mumbi mukulu,2009-10-07,2009-10-29,22
+kasama dho,mumbi mukulu,2009-11-04,2009-12-05,31
+kasama dho,mumbi mukulu,2009-12-02,2009-12-05,3
+kasama dho,mumbi mukulu,2010-01-06,2010-01-28,22
+kasama dho,mumbi mukulu,2010-02-03,2010-03-29,54
+kasama dho,mumbi mukulu,2010-03-03,2010-03-29,26
+kasama dho,mumbi mukulu,2010-04-08,2010-04-28,20
+kasama dho,mulobola,2009-06-03,2009-06-27,24
+kasama dho,mulobola,2009-07-10,2009-08-22,43
+kasama dho,mulobola,2009-08-06,2009-08-22,16
+kasama dho,mulobola,2009-09-02,2009-09-28,26
+kasama dho,mulobola,2009-10-07,2009-10-29,22
+kasama dho,mulobola,2009-11-04,2009-12-05,31
+kasama dho,mulobola,2009-12-02,2009-12-05,3
+kasama dho,mulobola,2010-01-06,2010-01-28,22
+kasama dho,mulobola,2010-02-03,2010-03-29,54
+kasama dho,mulobola,2010-03-03,2010-03-29,26
+kasama dho,mulobola,2010-04-08,2010-04-28,20
+kasama dho,mbusa,2009-06-03,2009-06-26,23
+kasama dho,mbusa,2009-07-10,2009-08-22,43
+kasama dho,mbusa,2009-08-06,2009-08-22,16
+kasama dho,mbusa,2009-09-02,2009-09-28,26
+kasama dho,mbusa,2009-10-07,2009-10-29,22
+kasama dho,mbusa,2009-11-04,2009-12-05,31
+kasama dho,mbusa,2009-12-02,2009-12-05,3
+kasama dho,mbusa,2010-01-06,2010-01-28,22
+kasama dho,mbusa,2010-02-03,2010-03-29,54
+kasama dho,mbusa,2010-03-03,2010-03-29,26
+kasama dho,mbusa,2010-04-08,2010-04-28,20
+kasama dho,kateshi,2009-06-03,2009-06-25,22
+kasama dho,kateshi,2009-07-10,2009-07-30,20
+kasama dho,kateshi,2009-08-06,2009-09-30,55
+kasama dho,kateshi,2009-09-02,2009-09-30,28
+kasama dho,kateshi,2009-10-07,2009-10-23,16
+kasama dho,kateshi,2009-11-04,2009-11-24,20
+kasama dho,kateshi,2009-12-02,2009-12-28,26
+kasama dho,kateshi,2010-01-06,2010-02-03,28
+kasama dho,kateshi,2010-02-03,2010-02-25,22
+kasama dho,kateshi,2010-03-03,2010-03-24,21
+kasama dho,kateshi,2010-04-08,2010-04-23,15
+kasama dho,milima,2009-06-03,2009-06-25,22
+kasama dho,milima,2009-07-10,2009-07-30,20
+kasama dho,milima,2009-08-06,2009-09-01,26
+kasama dho,milima,2009-09-02,2009-09-30,28
+kasama dho,milima,2009-10-07,2009-10-23,16
+kasama dho,milima,2009-11-04,2009-11-24,20
+kasama dho,milima,2009-12-02,2009-12-28,26
+kasama dho,milima,2010-01-06,2010-02-03,28
+kasama dho,milima,2010-02-03,2010-02-25,22
+kasama dho,milima,2010-03-03,2010-03-24,21
+kasama dho,milima,2010-04-08,2010-04-23,15
+kasama dho,misamfu,2009-06-03,2009-06-25,22
+kasama dho,misamfu,2009-07-10,2009-07-30,20
+kasama dho,misamfu,2009-08-06,2009-09-01,26
+kasama dho,misamfu,2009-09-02,2009-09-30,28
+kasama dho,misamfu,2009-10-07,2009-10-23,16
+kasama dho,misamfu,2009-11-04,2009-11-24,20
+kasama dho,misamfu,2009-12-02,2009-12-28,26
+kasama dho,misamfu,2010-01-06,2010-02-03,28
+kasama dho,misamfu,2010-02-03,2010-02-25,22
+kasama dho,misamfu,2010-03-03,2010-03-24,21
+kasama dho,misamfu,2010-04-08,2010-04-24,16
+kasama dho,chilubula,2009-06-03,2009-06-15,12
+kasama dho,chilubula,2009-07-10,2009-07-22,12
+kasama dho,chilubula,2009-08-06,2009-08-20,14
+kasama dho,chilubula,2009-09-02,2009-09-23,21
+kasama dho,chilubula,2009-10-07,2009-10-27,20
+kasama dho,chilubula,2009-11-04,2009-11-26,22
+kasama dho,chilubula,2009-12-02,2010-01-05,34
+kasama dho,chilubula,2010-01-06,2010-02-02,27
+kasama dho,chilubula,2010-02-03,2010-02-22,19
+kasama dho,chilubula,2010-03-03,2010-03-23,20
+kasama dho,chilubula,2010-04-08,2010-04-30,22
+kasama dho,chilongoshi,2009-06-03,2009-06-16,13
+kasama dho,chilongoshi,2009-07-10,2009-07-23,13
+kasama dho,chilongoshi,2009-08-06,2009-08-20,14
+kasama dho,chilongoshi,2009-09-02,2009-09-23,21
+kasama dho,chilongoshi,2009-10-07,2009-10-27,20
+kasama dho,chilongoshi,2009-11-04,2009-11-26,22
+kasama dho,chilongoshi,2009-12-02,2010-01-05,34
+kasama dho,chilongoshi,2010-01-06,2010-02-02,27
+kasama dho,chilongoshi,2010-02-03,2010-02-22,19
+kasama dho,chilongoshi,2010-03-03,2010-03-23,20
+kasama dho,chilongoshi,2010-04-08,2010-04-30,22
+kasama dho,misengo,2009-06-03,2009-06-16,13
+kasama dho,misengo,2009-07-10,2009-07-23,13
+kasama dho,misengo,2009-08-06,2009-08-20,14
+kasama dho,misengo,2009-09-02,2009-09-23,21
+kasama dho,misengo,2009-10-07,2009-10-27,20
+kasama dho,misengo,2009-11-04,2009-11-26,22
+kasama dho,misengo,2009-12-02,2010-01-05,34
+kasama dho,misengo,2010-01-06,2010-02-02,27
+kasama dho,misengo,2010-02-03,2010-02-22,19
+kasama dho,misengo,2010-03-03,2010-03-23,20
+kasama dho,misengo,2010-04-08,2010-04-30,22
+kasama dho,zns chishimba,2009-06-03,2009-06-16,13
+kasama dho,zns chishimba,2009-07-10,2009-07-23,13
+kasama dho,zns chishimba,2009-08-06,2009-08-20,14
+kasama dho,zns chishimba,2009-09-02,2009-09-23,21
+kasama dho,zns chishimba,2009-10-07,2009-10-27,20
+kasama dho,zns chishimba,2009-11-04,2009-11-26,22
+kasama dho,zns chishimba,2009-12-02,2010-01-05,34
+kasama dho,zns chishimba,2010-01-06,2010-02-02,27
+kasama dho,zns chishimba,2010-02-03,2010-02-22,19
+kasama dho,zns chishimba,2010-03-03,2010-03-23,20
+kasama dho,zns chishimba,2010-04-08,2010-04-30,22
+kasama dho,chiombo,2009-06-03,2009-06-23,20
+kasama dho,chiombo,2009-07-10,2009-07-31,21
+kasama dho,chiombo,2009-08-06,2009-08-31,25
+kasama dho,chiombo,2009-09-02,2009-09-24,22
+kasama dho,chiombo,2009-10-07,2009-10-28,21
+kasama dho,chiombo,2009-11-04,2009-11-27,23
+kasama dho,chiombo,2009-12-02,2009-12-31,29
+kasama dho,chiombo,2010-01-06,2010-01-27,21
+kasama dho,chiombo,2010-02-03,2010-02-23,20
+kasama dho,chiombo,2010-03-03,2010-03-25,22
+kasama dho,chiombo,2010-04-08,2010-04-29,21
+kasama dho,kasakula,2009-06-03,2009-06-23,20
+kasama dho,kasakula,2009-07-10,2009-07-31,21
+kasama dho,kasakula,2009-08-06,2009-08-31,25
+kasama dho,kasakula,2009-09-02,2009-09-24,22
+kasama dho,kasakula,2009-10-07,2009-10-28,21
+kasama dho,kasakula,2009-11-04,2009-11-27,23
+kasama dho,kasakula,2009-12-02,2009-12-31,29
+kasama dho,kasakula,2010-01-06,2010-01-27,21
+kasama dho,kasakula,2010-02-03,2010-02-23,20
+kasama dho,kasakula,2010-03-03,2010-03-25,22
+kasama dho,kasakula,2010-04-08,2010-04-29,21
+kasama dho,munkonge,2009-06-03,2009-06-23,20
+kasama dho,munkonge,2009-07-10,2009-07-24,14
+kasama dho,munkonge,2009-08-06,2009-08-31,25
+kasama dho,munkonge,2009-09-02,2009-09-24,22
+kasama dho,munkonge,2009-10-07,2009-10-28,21
+kasama dho,munkonge,2009-11-04,2009-11-27,23
+kasama dho,munkonge,2009-12-02,2009-12-31,29
+kasama dho,munkonge,2010-01-06,2010-02-04,29
+kasama dho,munkonge,2010-02-03,2010-02-04,1
+kasama dho,munkonge,2010-03-03,2010-03-25,22
+kasama dho,munkonge,2010-04-08,2010-04-29,21
+kasama dho,lubushi,2009-06-03,2009-06-23,20
+kasama dho,lubushi,2009-07-10,2009-07-24,14
+kasama dho,lubushi,2009-08-06,2009-08-31,25
+kasama dho,lubushi,2009-09-02,2009-09-24,22
+kasama dho,lubushi,2009-10-07,2009-10-28,21
+kasama dho,lubushi,2009-11-04,2009-11-27,23
+kasama dho,lubushi,2009-12-02,2009-12-31,29
+kasama dho,lubushi,2010-01-06,2010-02-04,29
+kasama dho,lubushi,2010-02-03,2010-02-04,1
+kasama dho,lubushi,2010-03-03,2010-03-25,22
+kasama dho,lubushi,2010-04-08,2010-04-29,21
+kasama dho,army,2009-06-03,2009-07-21,48
+kasama dho,army,2009-07-10,2009-07-21,11
+kasama dho,army,2009-08-06,2009-08-24,18
+kasama dho,army,2009-09-02,2009-10-20,48
+kasama dho,army,2009-10-07,2009-10-20,13
+kasama dho,army,2009-11-04,2009-11-23,19
+kasama dho,army,2009-12-02,2009-12-26,24
+kasama dho,army,2010-01-06,2010-01-18,12
+kasama dho,army,2010-02-03,2010-04-21,77
+kasama dho,army,2010-03-03,2010-04-21,49
+kasama dho,army,2010-04-08,2010-04-21,13
+kasama dho,kasama urban,2009-06-03,2009-06-29,26
+kasama dho,kasama urban,2009-07-10,2009-07-22,12
+kasama dho,kasama urban,2009-08-06,2009-08-24,18
+kasama dho,kasama urban,2009-09-02,2009-10-20,48
+kasama dho,kasama urban,2009-10-07,2009-10-20,13
+kasama dho,kasama urban,2009-11-04,2009-11-23,19
+kasama dho,kasama urban,2009-12-02,2009-12-26,24
+kasama dho,kasama urban,2010-01-06,2010-01-18,12
+kasama dho,kasama urban,2010-02-03,2010-02-17,14
+kasama dho,kasama urban,2010-03-03,2010-03-17,14
+kasama dho,kasama urban,2010-04-08,2010-04-20,12
+kasama dho,location,2009-06-03,2009-06-17,14
+kasama dho,location,2009-07-10,2009-07-21,11
+kasama dho,location,2009-08-06,2009-08-24,18
+kasama dho,location,2009-09-02,2009-10-20,48
+kasama dho,location,2009-10-07,2009-10-20,13
+kasama dho,location,2009-11-04,2009-11-23,19
+kasama dho,location,2009-12-02,2009-12-26,24
+kasama dho,location,2010-01-06,2010-01-29,23
+kasama dho,location,2010-02-03,2010-02-16,13
+kasama dho,location,2010-03-03,2010-03-18,15
+kasama dho,location,2010-04-08,2010-04-19,11
+kasama dho,mulenga,2009-06-03,2009-06-24,21
+kasama dho,mulenga,2009-07-10,2009-07-29,19
+kasama dho,mulenga,2009-08-06,2009-09-04,29
+kasama dho,mulenga,2009-09-02,2009-09-04,2
+kasama dho,mulenga,2009-10-07,2009-10-20,13
+kasama dho,mulenga,2009-11-04,2009-12-04,30
+kasama dho,mulenga,2009-12-02,2009-12-04,2
+kasama dho,mulenga,2010-01-06,2010-01-29,23
+kasama dho,mulenga,2010-02-03,2010-02-18,15
+kasama dho,mulenga,2010-03-03,2010-03-19,16
+kasama dho,mulenga,2010-04-08,2010-04-21,13
+kasama dho,tazara,2009-06-03,2009-06-30,27
+kasama dho,tazara,2009-07-10,2009-07-29,19
+kasama dho,tazara,2009-08-06,2009-09-02,27
+kasama dho,tazara,2009-09-02,2009-10-01,29
+kasama dho,tazara,2009-10-07,2009-10-31,24
+kasama dho,tazara,2009-11-04,2009-12-03,29
+kasama dho,tazara,2009-12-02,2009-12-03,1
+kasama dho,tazara,2010-01-06,2010-01-19,13
+kasama dho,tazara,2010-02-03,2010-02-19,16
+kasama dho,tazara,2010-03-03,2010-03-26,23
+kasama dho,tazara,2010-04-08,2010-04-26,18
+kasama dho,chisanga,2009-06-03,2009-06-29,26
+kasama dho,chisanga,2009-07-10,2009-07-29,19
+kasama dho,chisanga,2009-08-06,2009-09-04,29
+kasama dho,chisanga,2009-09-02,2009-09-04,2
+kasama dho,chisanga,2009-10-07,2009-10-31,24
+kasama dho,chisanga,2009-11-04,2009-12-03,29
+kasama dho,chisanga,2009-12-02,2009-12-03,1
+kasama dho,chisanga,2010-01-06,2010-01-19,13
+kasama dho,chisanga,2010-02-03,2010-02-16,13
+kasama dho,chisanga,2010-03-03,2010-03-18,15
+kasama dho,chisanga,2010-04-08,2010-04-19,11
+kasama dho,college,2009-06-03,2009-06-24,21
+kasama dho,college,2009-07-10,2009-07-29,19
+kasama dho,college,2009-08-06,2009-09-04,29
+kasama dho,college,2009-09-02,2009-09-04,2
+kasama dho,college,2009-10-07,2009-10-20,13
+kasama dho,college,2009-11-04,2009-12-04,30
+kasama dho,college,2009-12-02,2009-12-04,2
+kasama dho,college,2010-01-06,2010-01-19,13
+kasama dho,college,2010-02-03,2010-02-18,15
+kasama dho,college,2010-03-03,2010-03-19,16
+kasama dho,college,2010-04-08,2010-04-21,13
+kasama dho,lukashya,2009-07-10,2009-07-30,20
+kasama dho,lukashya,2009-08-06,2009-09-04,29
+kasama dho,lukashya,2009-09-02,2009-09-04,2
+kasama dho,lukashya,2009-10-07,2009-10-23,16
+kasama dho,lukashya,2009-11-04,2009-12-04,30
+kasama dho,lukashya,2009-12-02,2009-12-04,2
+kasama dho,lukashya,2010-01-06,2010-01-29,23
+kasama dho,lukashya,2010-02-03,2010-02-17,14
+kasama dho,lukashya,2010-03-03,2010-03-17,14
+kasama dho,lukashya,2010-04-08,2010-04-20,12
+kasama dho,mumbi mfumu,2009-07-10,2009-07-28,18
+kasama dho,mumbi mfumu,2009-08-06,2009-09-02,27
+kasama dho,mumbi mfumu,2009-09-02,2009-09-03,1
+kasama dho,mumbi mfumu,2009-10-07,2009-10-31,24
+kasama dho,mumbi mfumu,2009-11-04,2009-12-02,28
+kasama dho,mumbi mfumu,2009-12-02,2010-01-04,33
+kasama dho,mumbi mfumu,2010-01-06,2010-01-25,19
+kasama dho,mumbi mfumu,2010-02-03,2010-03-26,51
+kasama dho,mumbi mfumu,2010-03-03,2010-03-26,23
+kasama dho,mumbi mfumu,2010-04-08,2010-04-26,18
+mkushi dho,fiwila mission,2009-05-05,2009-05-28,23
+mkushi dho,fiwila mission,2009-06-02,2009-06-15,13
+mkushi dho,fiwila mission,2009-07-09,2009-07-13,4
+mkushi dho,fiwila mission,2009-08-05,2009-08-20,15
+mkushi dho,fiwila mission,2009-09-01,2009-09-07,6
+mkushi dho,fiwila mission,2009-10-06,2009-10-20,14
+mkushi dho,fiwila mission,2009-11-03,2009-11-06,3
+mkushi dho,fiwila mission,2009-12-01,2009-12-03,2
+mkushi dho,fiwila mission,2010-01-07,2010-02-22,46
+mkushi dho,fiwila mission,2010-02-04,2010-02-22,18
+mkushi dho,fiwila mission,2010-03-04,2010-03-21,17
+mkushi dho,fiwila mission,2010-04-09,2010-04-16,7
+mkushi dho,fiwila mission,2009-10-07,2009-10-20,13
+mkushi dho,fiwila mission,2009-12-02,2009-12-03,1
+mkushi dho,chibefwe,2009-05-05,2009-05-14,9
+mkushi dho,chibefwe,2009-06-02,2009-06-08,6
+mkushi dho,chibefwe,2009-07-09,2009-07-30,21
+mkushi dho,chibefwe,2009-08-05,2009-08-12,7
+mkushi dho,chibefwe,2009-09-01,2009-09-02,1
+mkushi dho,chibefwe,2009-10-06,2009-10-10,4
+mkushi dho,chibefwe,2009-11-03,2009-11-09,6
+mkushi dho,chibefwe,2009-12-01,2009-12-04,3
+mkushi dho,chibefwe,2010-01-07,2010-01-18,11
+mkushi dho,chibefwe,2010-02-04,2010-02-22,18
+mkushi dho,chibefwe,2010-03-04,2010-04-09,36
+mkushi dho,chibefwe,2010-04-09,2010-04-20,11
+mkushi dho,chibefwe,2009-10-07,2009-10-10,3
+mkushi dho,chibefwe,2009-12-02,2009-12-04,2
+mkushi dho,kaundula,2009-06-02,2009-06-30,28
+mkushi dho,kaundula,2009-07-09,2009-07-17,8
+mkushi dho,kaundula,2009-08-05,2009-08-11,6
+mkushi dho,kaundula,2009-09-01,2009-09-24,23
+mkushi dho,kaundula,2009-10-06,2009-10-20,14
+mkushi dho,kaundula,2009-11-03,2009-11-06,3
+mkushi dho,kaundula,2009-12-01,2009-12-03,2
+mkushi dho,kaundula,2010-01-07,2010-02-22,46
+mkushi dho,kaundula,2010-02-04,2010-02-22,18
+mkushi dho,kaundula,2010-03-04,2010-03-15,11
+mkushi dho,kaundula,2010-04-09,2010-04-26,17
+mkushi dho,kaundula,2009-10-07,2009-10-20,13
+mkushi dho,kaundula,2009-12-02,2009-12-03,1
+mkushi dho,chikupili,2009-06-02,2009-06-08,6
+mkushi dho,chikupili,2009-07-09,2009-07-13,4
+mkushi dho,chikupili,2009-08-05,2009-08-09,4
+mkushi dho,chikupili,2009-09-01,2009-09-02,1
+mkushi dho,chikupili,2009-10-06,2009-10-21,15
+mkushi dho,chikupili,2009-11-03,2009-12-03,30
+mkushi dho,chikupili,2009-12-01,2009-12-03,2
+mkushi dho,chikupili,2010-01-07,2010-01-20,13
+mkushi dho,chikupili,2010-02-04,2010-02-15,11
+mkushi dho,chikupili,2010-03-04,2010-03-10,6
+mkushi dho,chikupili,2010-04-09,2010-04-15,6
+mkushi dho,chikupili,2009-10-07,2009-10-21,14
+mkushi dho,chikupili,2009-12-02,2009-12-03,1
+mkushi dho,miloso,2009-06-02,2009-06-23,21
+mkushi dho,miloso,2009-07-09,2009-07-12,3
+mkushi dho,miloso,2009-08-05,2009-08-10,5
+mkushi dho,miloso,2009-09-01,2009-09-29,28
+mkushi dho,miloso,2009-10-06,2009-10-20,14
+mkushi dho,miloso,2009-11-03,2009-12-04,31
+mkushi dho,miloso,2009-12-01,2009-12-04,3
+mkushi dho,miloso,2010-01-07,2010-02-08,32
+mkushi dho,miloso,2010-02-04,2010-02-08,4
+mkushi dho,miloso,2010-03-04,2010-04-06,33
+mkushi dho,miloso,2010-04-09,2010-04-12,3
+mkushi dho,miloso,2009-10-07,2009-10-20,13
+mkushi dho,miloso,2009-12-02,2009-12-04,2
+mkushi dho,mkushi coppermine,2009-06-02,2009-06-22,20
+mkushi dho,mkushi coppermine,2009-07-09,2009-07-16,7
+mkushi dho,mkushi coppermine,2009-08-05,2009-08-08,3
+mkushi dho,mkushi coppermine,2009-09-01,2009-09-21,20
+mkushi dho,mkushi coppermine,2009-10-06,2009-10-22,16
+mkushi dho,mkushi coppermine,2009-11-03,2009-11-10,7
+mkushi dho,mkushi coppermine,2009-12-01,2009-12-11,10
+mkushi dho,mkushi coppermine,2010-01-07,2010-02-12,36
+mkushi dho,mkushi coppermine,2010-02-04,2010-02-12,8
+mkushi dho,mkushi coppermine,2010-03-04,2010-03-15,11
+mkushi dho,mkushi coppermine,2010-04-09,2010-04-19,10
+mkushi dho,mkushi coppermine,2009-10-07,2009-10-22,15
+mkushi dho,mkushi coppermine,2009-12-02,2009-12-11,9
+mkushi dho,mboroma,2009-06-02,2009-06-11,9
+mkushi dho,mboroma,2009-07-09,2009-09-03,56
+mkushi dho,mboroma,2009-08-05,2009-09-03,29
+mkushi dho,mboroma,2009-09-01,2009-09-03,2
+mkushi dho,mboroma,2009-10-06,2009-10-31,25
+mkushi dho,mboroma,2009-11-03,2009-12-05,32
+mkushi dho,mboroma,2009-12-01,2009-12-05,4
+mkushi dho,mboroma,2010-01-07,2010-02-23,47
+mkushi dho,mboroma,2010-02-04,2010-02-23,19
+mkushi dho,mboroma,2010-03-04,2010-04-22,49
+mkushi dho,mboroma,2010-04-09,2010-04-22,13
+mkushi dho,mboroma,2009-10-07,2009-10-31,24
+mkushi dho,mboroma,2009-12-02,2009-12-05,3
+mkushi dho,nkumbi,2009-06-02,2009-06-22,20
+mkushi dho,nkumbi,2009-07-09,2009-07-20,11
+mkushi dho,nkumbi,2009-08-05,2009-08-08,3
+mkushi dho,nkumbi,2009-09-01,2009-10-07,36
+mkushi dho,nkumbi,2009-10-06,2009-10-07,1
+mkushi dho,nkumbi,2009-11-03,2009-11-06,3
+mkushi dho,nkumbi,2009-12-01,2009-12-05,4
+mkushi dho,nkumbi,2010-01-07,2010-01-12,5
+mkushi dho,nkumbi,2010-02-04,2010-03-13,37
+mkushi dho,nkumbi,2010-03-04,2010-03-13,9
+mkushi dho,nkumbi,2010-04-09,2010-04-20,11
+mkushi dho,nkumbi,2009-10-07,2009-10-14,7
+mkushi dho,nkumbi,2009-12-02,2009-12-05,3
+mkushi dho,luanshimba,2009-06-02,2009-06-23,21
+mkushi dho,luanshimba,2009-07-09,2009-07-12,3
+mkushi dho,luanshimba,2009-08-05,2009-08-07,2
+mkushi dho,luanshimba,2009-09-01,2009-10-16,45
+mkushi dho,luanshimba,2009-10-06,2009-10-16,10
+mkushi dho,luanshimba,2009-11-03,2009-11-11,8
+mkushi dho,luanshimba,2009-12-01,2009-12-07,6
+mkushi dho,luanshimba,2010-01-07,2010-02-08,32
+mkushi dho,luanshimba,2010-02-04,2010-02-08,4
+mkushi dho,luanshimba,2010-03-04,2010-03-09,5
+mkushi dho,luanshimba,2010-04-09,2010-04-16,7
+mkushi dho,luanshimba,2009-10-07,2009-10-16,9
+mkushi dho,luanshimba,2009-12-02,2009-12-07,5
+mkushi dho,chingombe,2009-06-02,2009-09-03,93
+mkushi dho,chingombe,2009-07-09,2009-09-03,56
+mkushi dho,chingombe,2009-08-05,2009-09-03,29
+mkushi dho,chingombe,2009-09-01,2009-09-03,2
+mkushi dho,chingombe,2009-10-06,2009-11-24,49
+mkushi dho,chingombe,2009-11-03,2009-11-24,21
+mkushi dho,chingombe,2009-12-01,2009-12-08,7
+mkushi dho,chingombe,2009-10-07,2009-11-24,48
+mkushi dho,chingombe,2009-12-02,2009-12-08,6
+mkushi dho,nshinso,2009-06-02,2009-06-22,20
+mkushi dho,nshinso,2009-07-09,2009-07-12,3
+mkushi dho,nshinso,2009-08-05,2009-08-06,1
+mkushi dho,nshinso,2009-09-01,2009-09-08,7
+mkushi dho,nshinso,2009-10-06,2009-10-16,10
+mkushi dho,nshinso,2009-11-03,2009-11-18,15
+mkushi dho,nshinso,2009-12-01,2009-12-04,3
+mkushi dho,nshinso,2010-01-07,2010-02-04,28
+mkushi dho,nshinso,2010-02-04,2010-02-09,5
+mkushi dho,nshinso,2010-03-04,2010-04-09,36
+mkushi dho,nshinso,2009-10-07,2009-10-16,9
+mkushi dho,nshinso,2009-12-02,2009-12-04,2
+mkushi dho,chalata,2009-06-02,2009-06-23,21
+mkushi dho,chalata,2009-07-09,2009-07-12,3
+mkushi dho,chalata,2009-08-05,2009-08-06,1
+mkushi dho,chalata,2009-09-01,2009-09-02,1
+mkushi dho,chalata,2009-10-06,2009-10-09,3
+mkushi dho,chalata,2009-11-03,2009-11-16,13
+mkushi dho,chalata,2009-12-01,2009-12-04,3
+mkushi dho,chalata,2010-01-07,2010-01-19,12
+mkushi dho,chalata,2010-02-04,2010-02-08,4
+mkushi dho,chalata,2010-03-04,2010-03-09,5
+mkushi dho,chalata,2010-04-09,2010-04-16,7
+mkushi dho,chalata,2009-10-07,2009-10-09,2
+mkushi dho,chalata,2009-12-02,2009-12-04,2
+mkushi dho,munsakamba,2009-06-02,2009-06-24,22
+mkushi dho,munsakamba,2009-07-09,2009-07-20,11
+mkushi dho,munsakamba,2009-08-05,2009-08-07,2
+mkushi dho,munsakamba,2009-09-01,2009-09-17,16
+mkushi dho,munsakamba,2009-10-06,2009-10-10,4
+mkushi dho,munsakamba,2009-11-03,2009-11-11,8
+mkushi dho,munsakamba,2009-12-01,2009-12-15,14
+mkushi dho,munsakamba,2010-01-07,2010-01-13,6
+mkushi dho,munsakamba,2010-02-04,2010-02-12,8
+mkushi dho,munsakamba,2010-03-04,2010-03-05,1
+mkushi dho,munsakamba,2010-04-09,2010-04-13,4
+mkushi dho,munsakamba,2009-10-07,2009-10-10,3
+mkushi dho,munsakamba,2009-12-02,2009-12-15,13
+mkushi dho,twatasha,2009-06-02,2009-06-29,27
+mkushi dho,twatasha,2009-07-09,2009-07-12,3
+mkushi dho,twatasha,2009-08-05,2009-08-09,4
+mkushi dho,twatasha,2009-09-01,2009-09-18,17
+mkushi dho,twatasha,2009-10-06,2009-10-20,14
+mkushi dho,twatasha,2009-11-03,2009-11-25,22
+mkushi dho,twatasha,2009-12-01,2009-12-10,9
+mkushi dho,twatasha,2010-01-07,2010-02-08,32
+mkushi dho,twatasha,2010-02-04,2010-02-08,4
+mkushi dho,twatasha,2010-03-04,2010-03-13,9
+mkushi dho,twatasha,2010-04-09,2010-04-16,7
+mkushi dho,twatasha,2009-10-07,2009-10-20,13
+mkushi dho,twatasha,2009-12-02,2009-12-10,8
+mkushi dho,masansa,2009-06-02,2009-06-09,7
+mkushi dho,masansa,2009-07-09,2009-07-13,4
+mkushi dho,masansa,2009-08-05,2009-08-09,4
+mkushi dho,masansa,2009-09-01,2009-09-18,17
+mkushi dho,masansa,2009-10-06,2009-10-22,16
+mkushi dho,masansa,2009-11-03,2009-11-10,7
+mkushi dho,masansa,2009-12-01,2009-12-03,2
+mkushi dho,masansa,2010-01-07,2010-02-10,34
+mkushi dho,masansa,2010-02-04,2010-02-10,6
+mkushi dho,masansa,2010-03-04,2010-03-10,6
+mkushi dho,masansa,2010-04-09,2010-04-25,16
+mkushi dho,masansa,2009-10-07,2009-10-22,15
+mkushi dho,masansa,2009-12-02,2009-12-03,1
+mkushi dho,mkushi district,2009-06-02,2009-11-10,161
+mkushi dho,mkushi district,2009-07-09,2009-11-10,124
+mkushi dho,mkushi district,2009-08-05,2009-11-10,97
+mkushi dho,mkushi district,2009-09-01,2009-11-10,70
+mkushi dho,mkushi district,2009-10-06,2009-11-10,35
+mkushi dho,mkushi district,2009-11-03,2009-11-10,7
+mkushi dho,mkushi district,2009-12-01,2010-01-13,43
+mkushi dho,mkushi district,2010-01-07,2010-01-13,6
+mkushi dho,mkushi district,2010-02-04,2010-02-05,1
+mkushi dho,mkushi district,2010-03-04,2010-04-09,36
+mkushi dho,mkushi district,2009-10-07,2009-11-10,34
+mkushi dho,mkushi district,2009-12-02,2010-01-13,42
+mkushi dho,mboshya,2009-06-02,2009-06-09,7
+mkushi dho,mboshya,2009-07-09,2009-08-07,29
+mkushi dho,mboshya,2009-08-05,2009-08-07,2
+mkushi dho,mboshya,2009-09-01,2009-09-04,3
+mkushi dho,mboshya,2009-10-06,2009-11-16,41
+mkushi dho,mboshya,2009-11-03,2009-11-16,13
+mkushi dho,mboshya,2009-12-01,2009-12-08,7
+mkushi dho,mboshya,2009-10-07,2009-11-16,40
+mkushi dho,mboshya,2009-12-02,2009-12-08,6
+mkushi dho,musofu,2009-07-09,2009-07-20,11
+mkushi dho,musofu,2009-08-05,2009-08-08,3
+mkushi dho,musofu,2009-09-01,2009-09-16,15
+mkushi dho,musofu,2009-10-06,2009-10-14,8
+mkushi dho,musofu,2009-11-03,2009-11-30,27
+mkushi dho,musofu,2009-12-01,2009-12-10,9
+mkushi dho,musofu,2010-01-07,2010-01-11,4
+mkushi dho,musofu,2010-02-04,2010-02-08,4
+mkushi dho,musofu,2010-03-04,2010-03-09,5
+mkushi dho,musofu,2009-10-07,2009-10-14,7
+mkushi dho,musofu,2009-12-02,2009-12-10,8
+mkushi dho,chimika,2009-07-09,2009-09-09,62
+mkushi dho,chimika,2009-08-05,2009-09-09,35
+mkushi dho,chimika,2009-09-01,2009-09-09,8
+mkushi dho,chimika,2009-10-06,2009-10-30,24
+mkushi dho,chimika,2009-10-07,2009-10-30,23
+mkushi dho,nkolonga,2009-07-09,2009-07-12,3
+mkushi dho,nkolonga,2009-08-05,2009-08-06,1
+mkushi dho,nkolonga,2009-09-01,2009-09-02,1
+mkushi dho,nkolonga,2009-10-06,2009-10-16,10
+mkushi dho,nkolonga,2009-11-03,2009-11-26,23
+mkushi dho,nkolonga,2009-12-01,2009-12-03,2
+mkushi dho,nkolonga,2010-01-07,2010-02-08,32
+mkushi dho,nkolonga,2010-02-04,2010-02-08,4
+mkushi dho,nkolonga,2010-03-04,2010-04-09,36
+mkushi dho,nkolonga,2010-04-09,2010-04-19,10
+mkushi dho,nkolonga,2009-10-07,2009-10-16,9
+mkushi dho,nkolonga,2009-12-02,2009-12-03,1
+mkushi dho,kakushi,2009-07-09,2009-07-12,3
+mkushi dho,kakushi,2009-08-05,2009-08-10,5
+mkushi dho,kakushi,2009-09-01,2009-09-29,28
+mkushi dho,kakushi,2009-10-06,2009-10-20,14
+mkushi dho,kakushi,2009-11-03,2009-11-29,26
+mkushi dho,kakushi,2009-12-01,2009-12-04,3
+mkushi dho,kakushi,2010-01-07,2010-01-08,1
+mkushi dho,kakushi,2010-02-04,2010-02-08,4
+mkushi dho,kakushi,2010-03-04,2010-03-13,9
+mkushi dho,kakushi,2010-04-09,2010-04-15,6
+mkushi dho,kakushi,2009-10-07,2009-10-20,13
+mkushi dho,kakushi,2009-12-02,2009-12-04,2
+mkushi dho,kampelembe,2009-07-09,2009-07-10,1
+mkushi dho,kampelembe,2009-08-05,2009-08-09,4
+mkushi dho,kampelembe,2009-09-01,2009-09-19,18
+mkushi dho,kampelembe,2009-10-06,2009-10-21,15
+mkushi dho,kampelembe,2009-11-03,2009-11-12,9
+mkushi dho,kampelembe,2009-12-01,2009-12-03,2
+mkushi dho,kampelembe,2010-01-07,2010-02-17,41
+mkushi dho,kampelembe,2010-02-04,2010-02-17,13
+mkushi dho,kampelembe,2010-03-04,2010-03-10,6
+mkushi dho,kampelembe,2010-04-09,2010-04-27,18
+mkushi dho,kampelembe,2009-10-07,2009-10-21,14
+mkushi dho,kampelembe,2009-12-02,2009-12-03,1
+mkushi dho,old mkushi,2009-07-09,2009-07-13,4
+mkushi dho,old mkushi,2009-08-05,2009-08-09,4
+mkushi dho,old mkushi,2009-09-01,2009-09-19,18
+mkushi dho,old mkushi,2009-10-06,2009-11-12,37
+mkushi dho,old mkushi,2009-11-03,2009-11-12,9
+mkushi dho,old mkushi,2009-12-01,2010-01-03,33
+mkushi dho,old mkushi,2010-01-07,2010-02-17,41
+mkushi dho,old mkushi,2010-02-04,2010-02-17,13
+mkushi dho,old mkushi,2010-03-04,2010-03-21,17
+mkushi dho,old mkushi,2009-10-07,2009-11-12,36
+mkushi dho,old mkushi,2009-12-02,2010-01-03,32
+mkushi dho,chembe,2009-09-01,2009-09-10,9
+mkushi dho,chembe,2009-10-06,2009-11-19,44
+mkushi dho,chembe,2009-11-03,2009-11-19,16
+mkushi dho,chembe,2009-12-01,2010-02-18,79
+mkushi dho,chembe,2010-01-07,2010-02-18,42
+mkushi dho,chembe,2010-02-04,2010-02-18,14
+mkushi dho,chembe,2009-10-07,2009-11-19,43
+mkushi dho,chembe,2009-12-02,2010-02-18,78
+mkushi dho,chengelo,2009-10-06,2009-10-16,10
+mkushi dho,chengelo,2009-11-03,2009-11-12,9
+mkushi dho,chengelo,2009-12-01,2009-12-04,3
+mkushi dho,chengelo,2010-01-07,2010-02-04,28
+mkushi dho,chengelo,2010-02-04,2010-03-04,28
+mkushi dho,chengelo,2010-03-04,2010-04-09,36
+mkushi dho,chengelo,2009-10-07,2009-10-16,9
+mkushi dho,chengelo,2009-12-02,2009-12-04,2
+mkushi dho,moffat,2009-11-03,2009-11-11,8
+mkushi dho,moffat,2009-12-01,2009-12-03,2
+mkushi dho,moffat,2010-01-07,2010-02-05,29
+mkushi dho,moffat,2010-02-04,2010-02-05,1
+mkushi dho,moffat,2010-03-04,2010-04-09,36
+mkushi dho,moffat,2009-12-02,2009-12-03,1
+mungwi dho,nseluka,2009-06-03,2009-06-24,21
+mungwi dho,nseluka,2009-07-10,2009-08-01,22
+mungwi dho,nseluka,2009-08-06,2009-08-22,16
+mungwi dho,nseluka,2009-09-02,2009-09-15,13
+mungwi dho,nseluka,2009-10-07,2009-10-19,12
+mungwi dho,nseluka,2009-11-04,2009-12-22,48
+mungwi dho,nseluka,2009-12-02,2009-12-22,20
+mungwi dho,nseluka,2010-01-06,2010-01-31,25
+mungwi dho,nseluka,2010-02-03,2010-02-15,12
+mungwi dho,nseluka,2010-03-03,2010-03-13,10
+mungwi dho,nseluka,2010-04-08,2010-04-16,8
+mungwi dho,chimba,2009-06-03,2009-06-30,27
+mungwi dho,chimba,2009-07-10,2009-08-01,22
+mungwi dho,chimba,2009-08-06,2009-08-22,16
+mungwi dho,chimba,2009-09-02,2009-09-14,12
+mungwi dho,chimba,2009-10-07,2009-10-21,14
+mungwi dho,chimba,2009-11-04,2009-12-24,50
+mungwi dho,chimba,2009-12-02,2009-12-24,22
+mungwi dho,chimba,2010-01-06,2010-02-08,33
+mungwi dho,chimba,2010-02-03,2010-02-08,5
+mungwi dho,chimba,2010-03-03,2010-03-12,9
+mungwi dho,chimba,2010-04-08,2010-04-17,9
+mungwi dho,mumba,2009-06-03,2009-06-22,19
+mungwi dho,mumba,2009-07-10,2009-07-31,21
+mungwi dho,mumba,2009-08-06,2009-08-21,15
+mungwi dho,mumba,2009-09-02,2009-09-10,8
+mungwi dho,mumba,2009-10-07,2009-10-20,13
+mungwi dho,mumba,2009-11-04,2009-12-23,49
+mungwi dho,mumba,2009-12-02,2009-12-23,21
+mungwi dho,mumba,2010-01-06,2010-02-12,37
+mungwi dho,mumba,2010-02-03,2010-02-12,9
+mungwi dho,mumba,2010-03-03,2010-03-11,8
+mungwi dho,mumba,2010-04-08,2010-04-13,5
+mungwi dho,kapolyo,2009-06-03,2009-06-23,20
+mungwi dho,kapolyo,2009-07-10,2009-07-31,21
+mungwi dho,kapolyo,2009-08-06,2009-08-21,15
+mungwi dho,kapolyo,2009-09-02,2009-09-11,9
+mungwi dho,kapolyo,2009-10-07,2009-10-20,13
+mungwi dho,kapolyo,2009-11-04,2009-12-23,49
+mungwi dho,kapolyo,2009-12-02,2009-12-23,21
+mungwi dho,kapolyo,2010-01-06,2010-02-11,36
+mungwi dho,kapolyo,2010-02-03,2010-02-11,8
+mungwi dho,kapolyo,2010-03-03,2010-03-11,8
+mungwi dho,kapolyo,2010-04-08,2010-04-13,5
+mungwi dho,kalulu,2009-06-03,2009-06-26,23
+mungwi dho,kalulu,2009-07-10,2009-08-04,25
+mungwi dho,kalulu,2009-08-06,2009-08-25,19
+mungwi dho,kalulu,2009-09-02,2009-09-22,20
+mungwi dho,kalulu,2009-10-07,2009-10-23,16
+mungwi dho,kalulu,2009-11-04,2009-12-08,34
+mungwi dho,kalulu,2009-12-02,2009-12-08,6
+mungwi dho,kalulu,2010-01-06,2010-01-19,13
+mungwi dho,kalulu,2010-02-03,2010-02-19,16
+mungwi dho,kalulu,2010-03-03,2010-03-16,13
+mungwi dho,kalulu,2010-04-08,2010-04-14,6
+mungwi dho,kayambi mission,2009-06-03,2009-06-26,23
+mungwi dho,kayambi mission,2009-07-10,2009-08-04,25
+mungwi dho,kayambi mission,2009-08-06,2009-08-24,18
+mungwi dho,kayambi mission,2009-09-02,2009-09-22,20
+mungwi dho,kayambi mission,2009-10-07,2009-10-23,16
+mungwi dho,kayambi mission,2009-11-04,2009-12-09,35
+mungwi dho,kayambi mission,2009-12-02,2009-12-09,7
+mungwi dho,kayambi mission,2010-01-06,2010-01-18,12
+mungwi dho,kayambi mission,2010-02-03,2010-02-18,15
+mungwi dho,kayambi mission,2010-03-03,2010-03-16,13
+mungwi dho,kayambi mission,2010-04-08,2010-04-14,6
+mungwi dho,malole,2009-06-03,2009-06-23,20
+mungwi dho,malole,2009-07-10,2009-07-30,20
+mungwi dho,malole,2009-08-06,2009-08-21,15
+mungwi dho,malole,2009-09-02,2009-09-11,9
+mungwi dho,malole,2009-10-07,2009-10-20,13
+mungwi dho,malole,2009-11-04,2009-12-24,50
+mungwi dho,malole,2009-12-02,2009-12-24,22
+mungwi dho,malole,2010-01-06,2010-02-09,34
+mungwi dho,malole,2010-02-03,2010-02-09,6
+mungwi dho,malole,2010-03-03,2010-03-12,9
+mungwi dho,malole,2010-04-08,2010-04-13,5
+mungwi dho,ndasa,2009-06-03,2009-06-22,19
+mungwi dho,ndasa,2009-07-10,2009-07-31,21
+mungwi dho,ndasa,2009-08-06,2009-08-21,15
+mungwi dho,ndasa,2009-09-02,2009-09-10,8
+mungwi dho,ndasa,2009-10-07,2009-10-21,14
+mungwi dho,ndasa,2009-11-04,2009-12-23,49
+mungwi dho,ndasa,2009-12-02,2009-12-23,21
+mungwi dho,ndasa,2010-01-06,2010-01-22,16
+mungwi dho,ndasa,2010-02-03,2010-02-12,9
+mungwi dho,ndasa,2010-03-03,2010-03-11,8
+mungwi dho,ndasa,2010-04-08,2010-04-13,5
+mungwi dho,ngoli,2009-06-03,2009-06-24,21
+mungwi dho,ngoli,2009-07-10,2009-07-29,19
+mungwi dho,ngoli,2009-08-06,2009-08-22,16
+mungwi dho,ngoli,2009-09-02,2009-09-15,13
+mungwi dho,ngoli,2009-10-07,2009-10-19,12
+mungwi dho,ngoli,2009-11-04,2009-12-22,48
+mungwi dho,ngoli,2009-12-02,2009-12-22,20
+mungwi dho,ngoli,2010-01-06,2010-01-31,25
+mungwi dho,ngoli,2010-02-03,2010-02-15,12
+mungwi dho,ngoli,2010-03-03,2010-03-13,10
+mungwi dho,ngoli,2010-04-08,2010-04-16,8
+mungwi dho,rosa,2009-06-03,2009-06-24,21
+mungwi dho,rosa,2009-07-10,2009-07-30,20
+mungwi dho,rosa,2009-08-06,2009-08-22,16
+mungwi dho,rosa,2009-09-02,2009-09-14,12
+mungwi dho,rosa,2009-10-07,2009-10-19,12
+mungwi dho,rosa,2009-11-04,2009-12-22,48
+mungwi dho,rosa,2009-12-02,2009-12-22,20
+mungwi dho,rosa,2010-01-06,2010-02-15,40
+mungwi dho,rosa,2010-02-03,2010-02-15,12
+mungwi dho,rosa,2010-03-03,2010-03-13,10
+mungwi dho,rosa,2010-04-08,2010-04-16,8
+mungwi dho,makasa,2009-06-03,2009-06-25,22
+mungwi dho,makasa,2009-07-10,2009-08-03,24
+mungwi dho,makasa,2009-08-06,2009-08-23,17
+mungwi dho,makasa,2009-09-02,2009-09-23,21
+mungwi dho,makasa,2009-10-07,2009-10-22,15
+mungwi dho,makasa,2009-11-04,2009-12-10,36
+mungwi dho,makasa,2009-12-02,2009-12-10,8
+mungwi dho,makasa,2010-01-06,2010-01-20,14
+mungwi dho,makasa,2010-02-03,2010-02-17,14
+mungwi dho,makasa,2010-03-03,2010-03-15,12
+mungwi dho,makasa,2010-04-08,2010-04-14,6
+mungwi dho,peleti,2009-06-03,2009-06-25,22
+mungwi dho,peleti,2009-07-10,2009-08-03,24
+mungwi dho,peleti,2009-08-06,2009-08-23,17
+mungwi dho,peleti,2009-09-02,2009-09-17,15
+mungwi dho,peleti,2009-10-07,2009-10-22,15
+mungwi dho,peleti,2009-11-04,2009-11-24,20
+mungwi dho,peleti,2009-12-02,2009-12-10,8
+mungwi dho,peleti,2010-01-06,2010-01-21,15
+mungwi dho,peleti,2010-02-03,2010-02-16,13
+mungwi dho,peleti,2010-03-03,2010-03-15,12
+mungwi dho,peleti,2010-04-08,2010-04-17,9
+mungwi dho,chitimukulu,2009-06-03,2009-06-30,27
+mungwi dho,chitimukulu,2009-07-10,2009-08-01,22
+mungwi dho,chitimukulu,2009-08-06,2009-08-22,16
+mungwi dho,chitimukulu,2009-09-02,2009-09-17,15
+mungwi dho,chitimukulu,2009-10-07,2009-10-21,14
+mungwi dho,chitimukulu,2009-11-04,2009-12-24,50
+mungwi dho,chitimukulu,2009-12-02,2009-12-24,22
+mungwi dho,chitimukulu,2010-01-06,2010-02-10,35
+mungwi dho,chitimukulu,2010-02-03,2010-02-10,7
+mungwi dho,chitimukulu,2010-03-03,2010-03-12,9
+mungwi dho,chitimukulu,2010-04-08,2010-04-17,9
+mungwi dho,mungwi baptist,2009-06-03,2009-06-22,19
+mungwi dho,mungwi baptist,2009-07-10,2009-08-26,47
+mungwi dho,mungwi baptist,2009-08-06,2009-08-26,20
+mungwi dho,mungwi baptist,2009-09-02,2009-09-09,7
+mungwi dho,mungwi baptist,2009-10-07,2009-10-15,8
+mungwi dho,mungwi baptist,2009-11-04,2009-11-16,12
+mungwi dho,mungwi baptist,2009-12-02,2009-12-07,5
+mungwi dho,mungwi baptist,2010-01-06,2010-01-18,12
+mungwi dho,mungwi baptist,2010-02-03,2010-03-04,29
+mungwi dho,mungwi baptist,2010-03-03,2010-03-04,1
+mungwi dho,mungwi baptist,2010-04-08,2010-04-12,4
+mwinilunga dho,kapundu,2009-04-09,2009-05-07,28
+mwinilunga dho,kapundu,2009-05-07,2009-06-16,40
+mwinilunga dho,kapundu,2009-06-04,2009-06-16,12
+mwinilunga dho,kapundu,2009-07-10,2009-07-28,18
+mwinilunga dho,kapundu,2009-08-07,2009-08-28,21
+mwinilunga dho,kapundu,2009-09-03,2009-09-30,27
+mwinilunga dho,kapundu,2009-10-08,2009-10-22,14
+mwinilunga dho,kapundu,2009-11-05,2009-12-08,33
+mwinilunga dho,kapundu,2009-12-03,2009-12-08,5
+mwinilunga dho,kapundu,2010-01-06,2010-01-20,14
+mwinilunga dho,kapundu,2010-02-03,2010-02-25,22
+mwinilunga dho,kapundu,2010-03-03,2010-03-24,21
+mwinilunga dho,ikelenge,2009-04-09,2009-05-20,41
+mwinilunga dho,ikelenge,2009-05-07,2009-05-20,13
+mwinilunga dho,ikelenge,2009-06-04,2009-06-19,15
+mwinilunga dho,ikelenge,2009-07-10,2009-07-16,6
+mwinilunga dho,ikelenge,2009-08-07,2009-08-12,5
+mwinilunga dho,ikelenge,2009-09-03,2009-09-25,22
+mwinilunga dho,ikelenge,2009-10-08,2009-10-20,12
+mwinilunga dho,ikelenge,2009-11-05,2009-11-25,20
+mwinilunga dho,ikelenge,2009-12-03,2009-12-09,6
+mwinilunga dho,ikelenge,2010-01-06,2010-01-21,15
+mwinilunga dho,ikelenge,2010-02-03,2010-02-17,14
+mwinilunga dho,ikelenge,2010-03-03,2010-03-18,15
+mwinilunga dho,ikelenge,2010-04-08,2010-04-12,4
+mwinilunga dho,kafweku,2009-04-09,2009-06-22,74
+mwinilunga dho,kafweku,2009-05-07,2009-06-22,46
+mwinilunga dho,kafweku,2009-06-04,2009-06-22,18
+mwinilunga dho,kafweku,2009-07-10,2009-07-17,7
+mwinilunga dho,kafweku,2009-08-07,2009-08-26,19
+mwinilunga dho,kafweku,2009-09-03,2009-09-26,23
+mwinilunga dho,kafweku,2009-10-08,2009-10-20,12
+mwinilunga dho,kafweku,2009-11-05,2009-11-24,19
+mwinilunga dho,kafweku,2009-12-03,2009-12-09,6
+mwinilunga dho,kafweku,2010-01-06,2010-01-21,15
+mwinilunga dho,kafweku,2010-02-03,2010-02-17,14
+mwinilunga dho,kafweku,2010-03-03,2010-03-18,15
+mwinilunga dho,katuyola,2009-05-07,2009-05-21,14
+mwinilunga dho,katuyola,2009-06-04,2009-06-08,4
+mwinilunga dho,katuyola,2009-07-10,2009-07-20,10
+mwinilunga dho,katuyola,2009-08-07,2009-08-20,13
+mwinilunga dho,katuyola,2009-09-03,2009-09-24,21
+mwinilunga dho,katuyola,2009-10-08,2009-11-03,26
+mwinilunga dho,katuyola,2009-11-05,2009-11-20,15
+mwinilunga dho,katuyola,2009-12-03,2009-12-12,9
+mwinilunga dho,katuyola,2010-01-06,2010-01-18,12
+mwinilunga dho,katuyola,2010-02-03,2010-02-25,22
+mwinilunga dho,katuyola,2010-03-03,2010-03-16,13
+mwinilunga dho,nyangombe,2009-05-07,2009-05-13,6
+mwinilunga dho,nyangombe,2009-06-04,2009-06-16,12
+mwinilunga dho,nyangombe,2009-07-10,2009-07-20,10
+mwinilunga dho,nyangombe,2009-08-07,2009-08-20,13
+mwinilunga dho,nyangombe,2009-09-03,2009-09-24,21
+mwinilunga dho,nyangombe,2009-10-08,2009-11-03,26
+mwinilunga dho,nyangombe,2009-11-05,2009-11-20,15
+mwinilunga dho,nyangombe,2009-12-03,2009-12-12,9
+mwinilunga dho,nyangombe,2010-01-06,2010-01-18,12
+mwinilunga dho,nyangombe,2010-02-03,2010-02-22,19
+mwinilunga dho,nyangombe,2010-03-03,2010-03-16,13
+mwinilunga dho,sachibondu,2009-05-07,2009-07-16,70
+mwinilunga dho,sachibondu,2009-06-04,2009-07-16,42
+mwinilunga dho,sachibondu,2009-07-10,2009-07-16,6
+mwinilunga dho,sachibondu,2009-08-07,2009-09-22,46
+mwinilunga dho,sachibondu,2009-09-03,2009-09-22,19
+mwinilunga dho,sachibondu,2009-10-08,2009-11-23,46
+mwinilunga dho,sachibondu,2009-11-05,2009-11-23,18
+mwinilunga dho,sachibondu,2009-12-03,2010-03-09,96
+mwinilunga dho,sachibondu,2010-01-06,2010-03-09,62
+mwinilunga dho,sachibondu,2010-02-03,2010-03-09,34
+mwinilunga dho,sachibondu,2010-03-03,2010-03-09,6
+mwinilunga dho,sachibondu,2010-04-08,2010-04-16,8
+mwinilunga dho,lumwana,2009-05-07,2009-05-08,1
+mwinilunga dho,lumwana,2009-06-04,2009-06-25,21
+mwinilunga dho,lumwana,2009-07-10,2009-07-30,20
+mwinilunga dho,lumwana,2009-08-07,2009-08-29,22
+mwinilunga dho,lumwana,2009-09-03,2009-09-18,15
+mwinilunga dho,lumwana,2009-10-08,2009-10-22,14
+mwinilunga dho,lumwana,2009-11-05,2009-12-14,39
+mwinilunga dho,lumwana,2009-12-03,2009-12-14,11
+mwinilunga dho,lumwana,2010-01-06,2010-01-20,14
+mwinilunga dho,lumwana,2010-02-03,2010-02-25,22
+mwinilunga dho,lumwana,2010-03-03,2010-03-24,21
+mwinilunga dho,kazozu,2009-05-07,2009-06-18,42
+mwinilunga dho,kazozu,2009-06-04,2009-06-18,14
+mwinilunga dho,kazozu,2009-07-10,2009-07-22,12
+mwinilunga dho,kazozu,2009-08-07,2009-08-21,14
+mwinilunga dho,kazozu,2009-09-03,2009-09-09,6
+mwinilunga dho,kazozu,2009-10-08,2009-10-27,19
+mwinilunga dho,kazozu,2009-11-05,2009-12-12,37
+mwinilunga dho,kazozu,2009-12-03,2009-12-12,9
+mwinilunga dho,kazozu,2010-01-06,2010-01-18,12
+mwinilunga dho,kazozu,2010-02-03,2010-02-22,19
+mwinilunga dho,kazozu,2010-03-03,2010-03-11,8
+mwinilunga dho,sailunga,2009-05-07,2009-05-18,11
+mwinilunga dho,sailunga,2009-06-04,2009-06-17,13
+mwinilunga dho,sailunga,2009-07-10,2009-07-27,17
+mwinilunga dho,sailunga,2009-08-07,2009-08-20,13
+mwinilunga dho,sailunga,2009-09-03,2009-09-24,21
+mwinilunga dho,sailunga,2009-10-08,2009-10-27,19
+mwinilunga dho,sailunga,2009-11-05,2009-12-12,37
+mwinilunga dho,sailunga,2009-12-03,2009-12-12,9
+mwinilunga dho,sailunga,2010-01-06,2010-01-18,12
+mwinilunga dho,sailunga,2010-02-03,2010-02-22,19
+mwinilunga dho,sailunga,2010-03-03,2010-03-11,8
+mwinilunga dho,chibwika,2009-05-07,2009-06-26,50
+mwinilunga dho,chibwika,2009-06-04,2009-06-26,22
+mwinilunga dho,chibwika,2009-07-10,2009-07-29,19
+mwinilunga dho,chibwika,2009-08-07,2009-08-18,11
+mwinilunga dho,chibwika,2009-09-03,2009-09-28,25
+mwinilunga dho,chibwika,2009-10-08,2009-10-30,22
+mwinilunga dho,chibwika,2009-11-05,2009-12-02,27
+mwinilunga dho,chibwika,2009-12-03,2009-12-11,8
+mwinilunga dho,chibwika,2010-01-06,2010-01-23,17
+mwinilunga dho,chibwika,2010-02-03,2010-02-16,13
+mwinilunga dho,chibwika,2010-03-03,2010-03-22,19
+mwinilunga dho,chisengi sengi,2009-05-07,2009-06-05,29
+mwinilunga dho,chisengi sengi,2009-06-04,2009-06-05,1
+mwinilunga dho,chisengi sengi,2009-07-10,2009-07-22,12
+mwinilunga dho,chisengi sengi,2009-08-07,2009-08-21,14
+mwinilunga dho,chisengi sengi,2009-09-03,2009-09-24,21
+mwinilunga dho,chisengi sengi,2009-10-08,2009-10-27,19
+mwinilunga dho,chisengi sengi,2009-11-05,2009-12-12,37
+mwinilunga dho,chisengi sengi,2009-12-03,2009-12-12,9
+mwinilunga dho,chisengi sengi,2010-01-06,2010-01-18,12
+mwinilunga dho,chisengi sengi,2010-02-03,2010-02-22,19
+mwinilunga dho,chisengi sengi,2010-03-03,2010-03-11,8
+mwinilunga dho,salujinga,2009-05-07,2009-06-19,43
+mwinilunga dho,salujinga,2009-06-04,2009-06-19,15
+mwinilunga dho,salujinga,2009-07-10,2009-07-17,7
+mwinilunga dho,salujinga,2009-08-07,2009-08-27,20
+mwinilunga dho,salujinga,2009-09-03,2009-09-26,23
+mwinilunga dho,salujinga,2009-10-08,2009-10-20,12
+mwinilunga dho,salujinga,2009-11-05,2009-11-24,19
+mwinilunga dho,salujinga,2009-12-03,2009-12-09,6
+mwinilunga dho,salujinga,2010-01-06,2010-01-21,15
+mwinilunga dho,salujinga,2010-02-03,2010-02-17,14
+mwinilunga dho,salujinga,2010-03-03,2010-03-18,15
+mwinilunga dho,kalene (kawota),2009-05-07,2009-06-22,46
+mwinilunga dho,kalene (kawota),2009-06-04,2009-06-22,18
+mwinilunga dho,kalene (kawota),2009-07-10,2009-08-12,33
+mwinilunga dho,kalene (kawota),2009-08-07,2009-08-12,5
+mwinilunga dho,kalene (kawota),2009-09-03,2009-09-25,22
+mwinilunga dho,kalene (kawota),2009-10-08,2009-10-20,12
+mwinilunga dho,kalene (kawota),2009-11-05,2009-11-25,20
+mwinilunga dho,kalene (kawota),2009-12-03,2009-12-09,6
+mwinilunga dho,kalene (kawota),2010-01-06,2010-01-21,15
+mwinilunga dho,kalene (kawota),2010-02-03,2010-02-17,14
+mwinilunga dho,kalene (kawota),2010-03-03,2010-03-18,15
+mwinilunga dho,kayipaka,2009-05-07,2009-05-21,14
+mwinilunga dho,kayipaka,2009-06-04,2009-06-08,4
+mwinilunga dho,kayipaka,2009-07-10,2009-07-16,6
+mwinilunga dho,kayipaka,2009-08-07,2009-08-27,20
+mwinilunga dho,kayipaka,2009-09-03,2009-09-26,23
+mwinilunga dho,kayipaka,2009-10-08,2009-10-20,12
+mwinilunga dho,kayipaka,2009-11-05,2009-11-23,18
+mwinilunga dho,kayipaka,2009-12-03,2009-12-09,6
+mwinilunga dho,kayipaka,2010-01-06,2010-01-21,15
+mwinilunga dho,kayipaka,2010-02-03,2010-02-17,14
+mwinilunga dho,kayipaka,2010-03-03,2010-03-18,15
+mwinilunga dho,kamapanda,2009-05-07,2009-06-23,47
+mwinilunga dho,kamapanda,2009-06-04,2009-06-23,19
+mwinilunga dho,kamapanda,2009-07-10,2009-07-29,19
+mwinilunga dho,kamapanda,2009-08-07,2009-08-18,11
+mwinilunga dho,kamapanda,2009-09-03,2009-09-28,25
+mwinilunga dho,kamapanda,2009-10-08,2009-10-30,22
+mwinilunga dho,kamapanda,2009-11-05,2009-12-02,27
+mwinilunga dho,kamapanda,2009-12-03,2009-12-11,8
+mwinilunga dho,ntambu sachitolu,2009-05-07,2009-06-25,49
+mwinilunga dho,ntambu sachitolu,2009-06-04,2009-06-25,21
+mwinilunga dho,ntambu sachitolu,2009-07-10,2009-07-23,13
+mwinilunga dho,ntambu sachitolu,2009-08-07,2009-08-11,4
+mwinilunga dho,kanyama,2009-05-07,2009-06-16,40
+mwinilunga dho,kanyama,2009-06-04,2009-06-16,12
+mwinilunga dho,kanyama,2009-07-10,2009-07-28,18
+mwinilunga dho,kanyama,2009-08-07,2009-08-28,21
+mwinilunga dho,kanyama,2009-09-03,2009-09-30,27
+mwinilunga dho,kanyama,2009-10-08,2009-10-22,14
+mwinilunga dho,kanyama,2009-11-05,2009-12-14,39
+mwinilunga dho,kanyama,2009-12-03,2009-12-14,11
+mwinilunga dho,kanyama,2010-01-06,2010-01-20,14
+mwinilunga dho,kanyama,2010-02-03,2010-02-25,22
+mwinilunga dho,kanyama,2010-03-03,2010-03-24,21
+mwinilunga dho,kakoma,2009-05-07,2009-05-13,6
+mwinilunga dho,kakoma,2009-06-04,2009-06-25,21
+mwinilunga dho,kakoma,2009-07-10,2009-07-27,17
+mwinilunga dho,kakoma,2009-08-07,2009-08-13,6
+mwinilunga dho,kakoma,2009-09-03,2009-10-01,28
+mwinilunga dho,kakoma,2009-10-08,2009-10-22,14
+mwinilunga dho,kakoma,2009-11-05,2009-12-01,26
+mwinilunga dho,kakoma,2009-12-03,2009-12-14,11
+mwinilunga dho,kakoma,2010-01-06,2010-01-20,14
+mwinilunga dho,kakoma,2010-02-03,2010-02-25,22
+mwinilunga dho,kakoma,2010-03-03,2010-03-24,21
+mwinilunga dho,musangila,2009-05-07,2009-06-16,40
+mwinilunga dho,musangila,2009-06-04,2009-06-16,12
+mwinilunga dho,musangila,2009-07-10,2009-07-23,13
+mwinilunga dho,musangila,2009-08-07,2009-08-11,4
+mwinilunga dho,musangila,2009-09-03,2009-09-18,15
+mwinilunga dho,musangila,2009-10-08,2009-10-23,15
+mwinilunga dho,musangila,2009-11-05,2009-12-08,33
+mwinilunga dho,musangila,2009-12-03,2009-12-08,5
+mwinilunga dho,musangila,2010-01-06,2010-01-21,15
+mwinilunga dho,musangila,2010-02-03,2010-02-09,6
+mwinilunga dho,mukangala,2009-05-07,2009-05-19,12
+mwinilunga dho,mukangala,2009-06-04,2009-06-16,12
+mwinilunga dho,mukangala,2009-07-10,2009-07-29,19
+mwinilunga dho,mukangala,2009-08-07,2009-08-26,19
+mwinilunga dho,mukangala,2009-09-03,2009-09-10,7
+mwinilunga dho,mukangala,2009-10-08,2009-11-23,46
+mwinilunga dho,mukangala,2009-11-05,2009-11-23,18
+mwinilunga dho,mukangala,2009-12-03,2009-12-09,6
+mwinilunga dho,mukangala,2010-01-06,2010-01-21,15
+mwinilunga dho,mukangala,2010-02-03,2010-02-17,14
+mwinilunga dho,mukangala,2010-03-03,2010-03-18,15
+mwinilunga dho,lwawu,2009-05-07,2009-05-11,4
+mwinilunga dho,lwawu,2009-06-04,2009-06-10,6
+mwinilunga dho,lwawu,2009-07-10,2009-07-23,13
+mwinilunga dho,lwawu,2009-08-07,2009-08-13,6
+mwinilunga dho,lwawu,2009-09-03,2009-09-18,15
+mwinilunga dho,lwawu,2009-10-08,2009-10-23,15
+mwinilunga dho,lwawu,2009-11-05,2009-12-16,41
+mwinilunga dho,lwawu,2009-12-03,2009-12-16,13
+mwinilunga dho,lwawu,2010-01-06,2010-01-07,1
+mwinilunga dho,lwawu,2010-02-03,2010-02-09,6
+mwinilunga dho,lwawu,2010-03-03,2010-03-08,5
+mwinilunga dho,lwawu,2010-04-08,2010-04-09,1
+mwinilunga dho,jimbe,2009-05-07,2009-05-11,4
+mwinilunga dho,jimbe,2009-06-04,2009-06-22,18
+mwinilunga dho,jimbe,2009-07-10,2009-07-17,7
+mwinilunga dho,jimbe,2009-08-07,2009-08-27,20
+mwinilunga dho,jimbe,2009-09-03,2009-09-26,23
+mwinilunga dho,jimbe,2009-10-08,2009-10-20,12
+mwinilunga dho,jimbe,2009-11-05,2009-11-24,19
+mwinilunga dho,jimbe,2009-12-03,2009-12-09,6
+mwinilunga dho,jimbe,2010-01-06,2010-01-21,15
+mwinilunga dho,jimbe,2010-02-03,2010-02-17,14
+mwinilunga dho,jimbe,2010-03-03,2010-03-18,15
+mwinilunga dho,jimbe,2010-04-08,2010-04-10,2
+mwinilunga dho,chiwoma,2009-05-07,2009-05-22,15
+mwinilunga dho,chiwoma,2009-06-04,2009-06-26,22
+mwinilunga dho,chiwoma,2009-07-10,2009-07-29,19
+mwinilunga dho,chiwoma,2009-08-07,2009-08-19,12
+mwinilunga dho,chiwoma,2009-09-03,2009-09-29,26
+mwinilunga dho,chiwoma,2009-10-08,2009-10-30,22
+mwinilunga dho,chiwoma,2009-11-05,2009-11-19,14
+mwinilunga dho,chiwoma,2009-12-03,2009-12-11,8
+mwinilunga dho,chiwoma,2010-01-06,2010-01-23,17
+mwinilunga dho,chiwoma,2010-02-03,2010-02-16,13
+mwinilunga dho,chiwoma,2010-03-03,2010-03-22,19
+mwinilunga dho,chiwoma,2010-04-08,2010-04-15,7
+mwinilunga dho,tom ilunga,2009-05-07,2009-06-18,42
+mwinilunga dho,tom ilunga,2009-06-04,2009-06-18,14
+mwinilunga dho,tom ilunga,2009-07-10,2009-07-22,12
+mwinilunga dho,tom ilunga,2009-08-07,2009-08-21,14
+mwinilunga dho,tom ilunga,2009-09-03,2009-09-23,20
+mwinilunga dho,tom ilunga,2009-10-08,2009-10-27,19
+mwinilunga dho,tom ilunga,2009-11-05,2009-12-12,37
+mwinilunga dho,tom ilunga,2009-12-03,2009-12-12,9
+mwinilunga dho,tom ilunga,2010-01-06,2010-01-18,12
+mwinilunga dho,tom ilunga,2010-02-03,2010-02-22,19
+mwinilunga dho,tom ilunga,2010-03-03,2010-03-11,8
+mwinilunga dho,kanzenzi,2009-05-07,2009-05-15,8
+mwinilunga dho,kanzenzi,2009-06-04,2009-06-22,18
+mwinilunga dho,kanzenzi,2009-07-10,2009-07-29,19
+mwinilunga dho,kanzenzi,2009-08-07,2009-08-19,12
+mwinilunga dho,kanzenzi,2009-09-03,2009-09-29,26
+mwinilunga dho,kanzenzi,2009-10-08,2009-10-30,22
+mwinilunga dho,kanzenzi,2009-11-05,2009-12-02,27
+mwinilunga dho,kanzenzi,2009-12-03,2009-12-11,8
+mwinilunga dho,kanzenzi,2010-01-06,2010-01-23,17
+mwinilunga dho,kanzenzi,2010-02-03,2010-02-16,13
+mwinilunga dho,kanzenzi,2010-03-03,2010-03-22,19
+mwinilunga dho,kanzenzi,2010-04-08,2010-04-15,7
+mwinilunga dho,kanyihampa,2009-05-07,2009-05-11,4
+mwinilunga dho,kanyihampa,2009-06-04,2009-06-08,4
+mwinilunga dho,kanyihampa,2009-07-10,2009-07-15,5
+mwinilunga dho,kanyihampa,2009-08-07,2009-09-10,34
+mwinilunga dho,kanyihampa,2009-09-03,2009-09-10,7
+mwinilunga dho,kanyihampa,2009-10-08,2009-11-16,39
+mwinilunga dho,kanyihampa,2009-11-05,2009-11-16,11
+mwinilunga dho,kanyihampa,2009-12-03,2010-01-06,34
+mwinilunga dho,kanyihampa,2010-01-06,2010-02-06,31
+mwinilunga dho,kanyihampa,2010-02-03,2010-02-06,3
+mwinilunga dho,kanyihampa,2010-03-03,2010-04-08,36
+mwinilunga dho,sakapoti,2009-07-10,2009-07-23,13
+mwinilunga dho,sakapoti,2009-08-07,2009-08-11,4
+mwinilunga dho,sakapoti,2009-09-03,2009-09-18,15
+mwinilunga dho,sakapoti,2009-10-08,2009-10-23,15
+mwinilunga dho,sakapoti,2009-11-05,2009-11-27,22
+mwinilunga dho,sakapoti,2009-12-03,2009-12-16,13
+mwinilunga dho,sakapoti,2010-01-06,2010-01-23,17
+mwinilunga dho,sakapoti,2010-02-03,2010-02-09,6
+mwinilunga dho,sakapoti,2010-03-03,2010-03-22,19
+mwinilunga dho,sakapoti,2010-04-08,2010-04-16,8
+kabompo dho,chifuwe south,2009-07-08,2009-08-08,31
+kabompo dho,chifuwe south,2009-08-08,2009-09-25,48
+kabompo dho,chifuwe south,2009-09-04,2009-09-25,21
+kabompo dho,chifuwe south,2009-10-07,2009-10-27,20
+kabompo dho,chifuwe south,2009-11-09,2009-11-29,20
+kabompo dho,chifuwe south,2009-12-04,2009-12-28,24
+kabompo dho,chifuwe south,2010-01-04,2010-01-06,2
+kabompo dho,chifuwe south,2010-02-02,2010-03-27,53
+kabompo dho,chifuwe south,2010-03-05,2010-03-27,22
+kabompo dho,chifuwe south,2010-04-06,2010-04-22,16
+kabompo dho,kabompo,2009-08-03,2009-09-22,50
+kabompo dho,kabompo,2009-09-09,2009-09-22,13
+kabompo dho,kabompo,2009-10-05,2009-11-27,53
+kabompo dho,kabompo,2009-11-09,2009-11-27,18
+kabompo dho,kabompo,2009-12-04,2009-12-22,18
+kabompo dho,kabompo,2010-01-04,2010-01-22,18
+kabompo dho,kabompo,2010-02-11,2010-02-22,11
+kabompo dho,kabompo,2010-04-07,2010-04-19,12
+kabompo dho,kasamba,2009-08-03,2009-08-06,3
+kabompo dho,kasamba,2009-09-04,2009-09-25,21
+kabompo dho,kasamba,2009-10-05,2009-10-28,23
+kabompo dho,kasamba,2009-11-09,2009-11-29,20
+kabompo dho,kasamba,2009-12-04,2009-12-29,25
+kabompo dho,kasamba,2010-01-04,2010-01-28,24
+kabompo dho,kasamba,2010-02-08,2010-03-27,47
+kabompo dho,kasamba,2010-04-07,2010-04-22,15
+kabompo dho,saint kalemba,2009-08-03,2009-09-25,53
+kabompo dho,saint kalemba,2009-09-07,2009-09-25,18
+kabompo dho,saint kalemba,2009-10-01,2009-10-28,27
+kabompo dho,saint kalemba,2009-11-05,2009-11-29,24
+kabompo dho,saint kalemba,2009-12-05,2009-12-29,24
+kabompo dho,saint kalemba,2010-01-10,2010-03-27,76
+kabompo dho,saint kalemba,2010-02-05,2010-03-27,50
+kabompo dho,saint kalemba,2010-03-05,2010-03-27,22
+kabompo dho,saint kalemba,2010-04-06,2010-04-22,16
+kabompo dho,kabulamema,2009-08-03,2009-08-06,3
+kabompo dho,kabulamema,2009-09-09,2009-09-28,19
+kabompo dho,kabulamema,2009-10-06,2009-10-23,17
+kabompo dho,kabulamema,2009-11-09,2009-11-27,18
+kabompo dho,kabulamema,2009-12-04,2009-12-24,20
+kabompo dho,kabulamema,2010-01-04,2010-01-25,21
+kabompo dho,kabulamema,2010-02-02,2010-02-26,24
+kabompo dho,kabulamema,2010-03-05,2010-03-23,18
+kabompo dho,kabulamema,2010-04-07,2010-04-21,14
+kabompo dho,mumbeji,2009-08-02,2009-08-03,1
+kabompo dho,mumbeji,2009-09-03,2009-09-28,25
+kabompo dho,mumbeji,2009-10-08,2009-10-23,15
+kabompo dho,mumbeji,2009-11-06,2009-11-27,21
+kabompo dho,mumbeji,2009-12-06,2009-12-24,18
+kabompo dho,mumbeji,2010-01-10,2010-01-25,15
+kabompo dho,mumbeji,2010-02-04,2010-02-26,22
+kabompo dho,mumbeji,2010-04-09,2010-04-21,12
+kabompo dho,nkulwashi,2009-07-09,2009-08-06,28
+kabompo dho,nkulwashi,2009-08-09,2009-09-28,50
+kabompo dho,nkulwashi,2009-09-04,2009-09-28,24
+kabompo dho,nkulwashi,2009-10-02,2009-10-23,21
+kabompo dho,nkulwashi,2009-11-02,2009-11-27,25
+kabompo dho,nkulwashi,2009-12-04,2009-12-24,20
+kabompo dho,nkulwashi,2010-01-04,2010-01-25,21
+kabompo dho,nkulwashi,2010-02-05,2010-02-26,21
+kabompo dho,nkulwashi,2010-03-05,2010-03-23,18
+kabompo dho,nkulwashi,2010-04-07,2010-04-21,14
+kabompo dho,chikonkwelo,2009-08-03,2009-09-29,57
+kabompo dho,chikonkwelo,2009-09-03,2009-09-29,26
+kabompo dho,chikonkwelo,2009-10-05,2009-10-28,23
+kabompo dho,chikonkwelo,2009-11-09,2009-11-28,19
+kabompo dho,chikonkwelo,2009-12-04,2009-12-30,26
+kabompo dho,chikonkwelo,2010-01-04,2010-01-27,23
+kabompo dho,chikonkwelo,2010-02-03,2010-03-28,53
+kabompo dho,chikonkwelo,2010-03-03,2010-03-28,25
+kabompo dho,chikonkwelo,2010-04-01,2010-04-24,23
+kabompo dho,dyambombola,2009-08-03,2009-08-08,5
+kabompo dho,dyambombola,2009-09-07,2009-09-23,16
+kabompo dho,dyambombola,2009-10-12,2009-10-22,10
+kabompo dho,dyambombola,2009-11-05,2009-11-28,23
+kabompo dho,dyambombola,2009-12-06,2009-12-31,25
+kabompo dho,dyambombola,2010-01-09,2010-03-28,78
+kabompo dho,dyambombola,2010-02-04,2010-03-28,52
+kabompo dho,dyambombola,2010-03-03,2010-03-28,25
+kabompo dho,dyambombola,2010-04-12,2010-04-24,12
+kabompo dho,kalunga,2009-08-03,2009-08-08,5
+kabompo dho,kalunga,2009-09-09,2009-09-21,12
+kabompo dho,kalunga,2009-10-09,2009-10-28,19
+kabompo dho,kalunga,2009-11-05,2009-11-28,23
+kabompo dho,kalunga,2009-12-03,2009-12-30,27
+kabompo dho,kalunga,2010-01-04,2010-01-29,25
+kabompo dho,kalunga,2010-02-04,2010-04-24,79
+kabompo dho,kalunga,2010-03-03,2010-04-24,52
+kabompo dho,kalunga,2010-04-07,2010-04-24,17
+kabompo dho,kashinakaji,2009-08-03,2009-08-08,5
+kabompo dho,kashinakaji,2009-09-03,2009-09-23,20
+kabompo dho,kashinakaji,2009-10-07,2009-10-22,15
+kabompo dho,kashinakaji,2009-11-10,2009-11-28,18
+kabompo dho,kashinakaji,2009-12-03,2009-12-31,28
+kabompo dho,kashinakaji,2010-01-03,2010-01-25,22
+kabompo dho,kashinakaji,2010-02-04,2010-03-25,49
+kabompo dho,kashinakaji,2010-04-09,2010-04-23,14
+kabompo dho,kayombo,2009-08-03,2009-08-08,5
+kabompo dho,kayombo,2009-09-07,2009-09-29,22
+kabompo dho,kayombo,2009-10-05,2009-10-28,23
+kabompo dho,kayombo,2009-11-04,2009-11-28,24
+kabompo dho,kayombo,2009-12-04,2009-12-30,26
+kabompo dho,kayombo,2010-01-04,2010-01-27,23
+kabompo dho,kayombo,2010-02-04,2010-03-28,52
+kabompo dho,kayombo,2010-03-03,2010-03-28,25
+kabompo dho,kayombo,2010-04-06,2010-04-24,18
+kabompo dho,luansongwa,2009-08-03,2009-08-08,5
+kabompo dho,luansongwa,2009-09-08,2009-09-23,15
+kabompo dho,luansongwa,2009-10-05,2009-10-22,17
+kabompo dho,luansongwa,2009-11-05,2009-11-28,23
+kabompo dho,luansongwa,2009-12-04,2009-12-31,27
+kabompo dho,luansongwa,2010-01-04,2010-01-26,22
+kabompo dho,luansongwa,2010-02-04,2010-03-25,49
+kabompo dho,luansongwa,2010-04-12,2010-04-23,11
+kabompo dho,mayawu,2009-08-09,2009-09-08,30
+kabompo dho,mayawu,2009-09-09,2009-10-22,43
+kabompo dho,mayawu,2009-10-09,2009-10-22,13
+kabompo dho,mayawu,2009-11-05,2009-11-28,23
+kabompo dho,mayawu,2009-12-05,2009-12-31,26
+kabompo dho,mayawu,2010-01-08,2010-01-26,18
+kabompo dho,mayawu,2010-02-03,2010-03-25,50
+kabompo dho,mayawu,2010-03-02,2010-03-25,23
+kabompo dho,mayawu,2010-04-07,2010-04-23,16
+kabompo dho,ndungo,2009-09-07,2009-09-28,21
+kabompo dho,ndungo,2009-11-04,2009-11-29,25
+kabompo dho,ndungo,2009-12-04,2009-12-28,24
+kabompo dho,ndungo,2010-01-04,2010-01-06,2
+kabompo dho,ndungo,2010-02-02,2010-03-27,53
+kabompo dho,ndungo,2010-04-06,2010-04-22,16
+kabompo dho,loloma,2009-08-10,2009-09-22,43
+kabompo dho,loloma,2009-09-08,2009-09-22,14
+kabompo dho,loloma,2009-10-05,2009-10-28,23
+kabompo dho,loloma,2009-11-04,2009-11-27,23
+kabompo dho,loloma,2009-12-04,2009-12-22,18
+kabompo dho,loloma,2010-01-04,2010-01-22,18
+kabompo dho,loloma,2010-02-08,2010-03-22,42
+kabompo dho,loloma,2010-04-08,2010-04-23,15
+milenge dho,milenge east 7,2009-06-03,2009-06-08,5
+milenge dho,milenge east 7,2009-07-01,2009-07-07,6
+milenge dho,milenge east 7,2009-08-01,2009-08-11,10
+milenge dho,milenge east 7,2009-09-01,2009-09-04,3
+milenge dho,milenge east 7,2009-10-07,2009-10-09,2
+milenge dho,milenge east 7,2009-11-04,2009-11-16,12
+milenge dho,milenge east 7,2009-12-03,2009-12-05,2
+milenge dho,milenge east 7,2010-01-01,2010-01-06,5
+milenge dho,milenge east 7,2010-02-01,2010-02-09,8
+milenge dho,milenge east 7,2010-03-03,2010-04-10,38
+milenge dho,milenge east 7,2010-04-01,2010-04-10,9
+milenge dho,sokontwe,2009-06-08,2009-06-12,4
+milenge dho,sokontwe,2009-07-01,2009-07-08,7
+milenge dho,sokontwe,2009-08-05,2009-08-13,8
+milenge dho,sokontwe,2009-09-08,2009-09-18,10
+milenge dho,sokontwe,2009-10-06,2009-10-19,13
+milenge dho,sokontwe,2009-11-03,2009-11-16,13
+milenge dho,sokontwe,2009-11-04,2009-11-16,12
+milenge dho,sokontwe,2010-01-05,2010-01-11,6
+milenge dho,sokontwe,2010-02-02,2010-02-10,8
+milenge dho,sokontwe,2010-03-07,2010-04-17,41
+milenge dho,sokontwe,2010-04-05,2010-04-17,12
+milenge dho,kapalala,2009-05-07,2009-05-21,14
+milenge dho,kapalala,2009-06-08,2009-06-12,4
+milenge dho,kapalala,2009-07-01,2009-07-08,7
+milenge dho,kapalala,2009-08-06,2009-08-12,6
+milenge dho,kapalala,2009-09-02,2009-09-14,12
+milenge dho,kapalala,2009-10-08,2009-10-19,11
+milenge dho,kapalala,2009-11-03,2009-11-16,13
+milenge dho,kapalala,2009-12-05,2009-12-19,14
+milenge dho,kapalala,2010-01-07,2010-01-12,5
+milenge dho,kapalala,2010-02-01,2010-02-09,8
+milenge dho,kapalala,2010-03-05,2010-04-15,41
+milenge dho,lungo mukuta,2009-06-04,2009-06-11,7
+milenge dho,lungo mukuta,2009-07-01,2009-08-15,45
+milenge dho,lungo mukuta,2009-08-01,2009-08-15,14
+milenge dho,lungo mukuta,2009-09-08,2009-09-30,22
+milenge dho,lungo mukuta,2009-10-04,2009-10-08,4
+milenge dho,lungo mukuta,2009-11-02,2009-11-06,4
+milenge dho,lungo mukuta,2009-12-06,2010-01-05,30
+milenge dho,lungo mukuta,2010-01-05,2010-04-09,94
+milenge dho,lungo mukuta,2010-02-02,2010-04-09,66
+milenge dho,lungo mukuta,2010-03-02,2010-04-09,38
+milenge dho,lungo mukuta,2010-04-02,2010-04-09,7
+milenge dho,chibende,2009-06-08,2009-06-14,6
+milenge dho,chibende,2009-07-01,2009-07-12,11
+milenge dho,chibende,2009-08-04,2009-08-20,16
+milenge dho,chibende,2009-09-07,2009-09-15,8
+milenge dho,chibende,2009-11-05,2009-11-20,15
+milenge dho,chibende,2009-12-06,2009-12-23,17
+milenge dho,chibende,2010-01-05,2010-01-08,3
+milenge dho,chibende,2010-02-02,2010-02-12,10
+milenge dho,chibende,2010-03-04,2010-04-20,47
+milenge dho,chibende,2010-04-03,2010-04-20,17
+milenge dho,lwela,2009-06-08,2009-06-14,6
+milenge dho,lwela,2009-07-02,2009-07-12,10
+milenge dho,lwela,2009-08-04,2009-08-20,16
+milenge dho,lwela,2009-09-07,2009-09-15,8
+milenge dho,lwela,2009-10-02,2009-10-12,10
+milenge dho,lwela,2009-11-05,2009-11-20,15
+milenge dho,lwela,2009-12-06,2009-12-23,17
+milenge dho,lwela,2010-01-02,2010-01-08,6
+milenge dho,lwela,2010-02-01,2010-02-12,11
+milenge dho,lwela,2010-03-04,2010-04-20,47
+milenge dho,lwela,2010-04-03,2010-04-20,17
+milenge dho,mulumbi,2009-06-11,2009-06-14,3
+milenge dho,mulumbi,2009-07-03,2009-07-12,9
+milenge dho,mulumbi,2009-08-04,2009-08-20,16
+milenge dho,mulumbi,2009-09-07,2009-09-14,7
+milenge dho,mulumbi,2009-11-05,2009-11-19,14
+milenge dho,mulumbi,2009-12-07,2009-12-23,16
+milenge dho,mulumbi,2010-01-05,2010-01-08,3
+milenge dho,mulumbi,2010-02-02,2010-02-12,10
+milenge dho,mulumbi,2010-03-04,2010-04-19,46
+milenge dho,kabange,2009-06-11,2009-06-14,3
+milenge dho,kabange,2009-07-01,2009-07-12,11
+milenge dho,kabange,2009-08-04,2009-08-20,16
+milenge dho,kabange,2009-09-07,2009-09-14,7
+milenge dho,kabange,2009-11-05,2009-11-19,14
+milenge dho,kabange,2009-12-06,2009-12-23,17
+milenge dho,kabange,2010-01-05,2010-01-08,3
+milenge dho,kabange,2010-02-02,2010-02-12,10
+milenge dho,kabange,2010-03-04,2010-04-19,46
+milenge dho,kabange,2010-04-07,2010-04-19,12
+mufumbwe dho,kinkonge,2009-09-08,2009-09-25,17
+mufumbwe dho,kinkonge,2009-10-06,2009-10-28,22
+mufumbwe dho,kinkonge,2009-11-04,2009-11-25,21
+mufumbwe dho,kinkonge,2009-12-03,2009-12-28,25
+mufumbwe dho,kinkonge,2010-01-04,2010-01-20,16
+mufumbwe dho,kinkonge,2010-02-03,2010-02-21,18
+mufumbwe dho,kinkonge,2010-03-03,2010-03-26,23
+mufumbwe dho,kinkonge,2010-04-04,2010-04-16,12
+mufumbwe dho,kalengwa,2009-09-03,2009-09-22,19
+mufumbwe dho,kalengwa,2009-10-05,2009-10-27,22
+mufumbwe dho,kalengwa,2009-11-04,2009-11-30,26
+mufumbwe dho,kalengwa,2009-12-05,2009-12-31,26
+mufumbwe dho,kalengwa,2010-01-04,2010-01-29,25
+mufumbwe dho,kalengwa,2010-02-01,2010-02-19,18
+mufumbwe dho,kalengwa,2010-03-03,2010-04-23,51
+mufumbwe dho,kalengwa,2010-04-08,2010-04-23,15
+mufumbwe dho,lubilo,2009-09-02,2009-09-21,19
+mufumbwe dho,lubilo,2009-10-05,2009-10-26,21
+mufumbwe dho,lubilo,2009-11-02,2009-11-20,18
+mufumbwe dho,lubilo,2009-12-03,2009-12-30,27
+mufumbwe dho,lubilo,2010-01-02,2010-01-15,13
+mufumbwe dho,lubilo,2010-02-02,2010-02-20,18
+mufumbwe dho,lubilo,2010-03-02,2010-03-11,9
+mufumbwe dho,lubilo,2010-04-02,2010-04-20,18
+mufumbwe dho,kabipupu,2009-09-03,2009-09-22,19
+mufumbwe dho,kabipupu,2009-10-05,2009-10-27,22
+mufumbwe dho,kabipupu,2009-11-04,2009-11-30,26
+mufumbwe dho,kabipupu,2009-12-05,2009-12-31,26
+mufumbwe dho,mufumbwe,2009-09-02,2009-09-10,8
+mufumbwe dho,mufumbwe,2009-10-01,2009-10-07,6
+mufumbwe dho,mufumbwe,2009-11-01,2009-11-07,6
+mufumbwe dho,mufumbwe,2009-12-02,2009-12-09,7
+mufumbwe dho,mufumbwe,2010-01-01,2010-01-14,13
+mufumbwe dho,mufumbwe,2010-02-01,2010-02-05,4
+mufumbwe dho,mufumbwe,2010-03-03,2010-03-11,8
+mufumbwe dho,mufumbwe,2010-04-01,2010-04-10,9
+mufumbwe dho,boma,2009-09-03,2009-09-25,22
+mufumbwe dho,boma,2009-10-05,2009-10-28,23
+mufumbwe dho,boma,2009-11-05,2009-11-25,20
+mufumbwe dho,boma,2009-12-02,2009-12-23,21
+mufumbwe dho,boma,2010-01-05,2010-01-27,22
+mufumbwe dho,boma,2010-02-12,2010-03-16,32
+mufumbwe dho,boma,2010-03-10,2010-03-16,6
+mufumbwe dho,boma,2010-04-07,2010-04-21,14
+mufumbwe dho,matushi,2009-09-01,2009-09-21,20
+mufumbwe dho,matushi,2009-10-05,2009-10-26,21
+mufumbwe dho,matushi,2009-11-01,2009-11-29,28
+mufumbwe dho,matushi,2009-12-03,2009-12-30,27
+mufumbwe dho,matushi,2010-01-02,2010-01-21,19
+mufumbwe dho,matushi,2010-02-02,2010-02-20,18
+mufumbwe dho,matushi,2010-03-05,2010-03-11,6
+mufumbwe dho,matushi,2010-04-05,2010-04-20,15
+mufumbwe dho,kaminzekenzeke,2009-09-10,2009-09-23,13
+mufumbwe dho,kaminzekenzeke,2009-10-05,2009-10-29,24
+mufumbwe dho,kaminzekenzeke,2009-11-05,2009-11-30,25
+mufumbwe dho,kaminzekenzeke,2009-12-05,2009-12-31,26
+mufumbwe dho,kaminzekenzeke,2010-01-05,2010-01-19,14
+mufumbwe dho,kaminzekenzeke,2010-02-01,2010-02-21,20
+mufumbwe dho,kaminzekenzeke,2010-03-02,2010-03-19,17
+mufumbwe dho,kaminzekenzeke,2010-04-02,2010-04-22,20
+mufumbwe dho,mushima,2009-09-01,2009-09-23,22
+mufumbwe dho,mushima,2009-10-01,2009-10-29,28
+mufumbwe dho,mushima,2009-11-01,2009-11-30,29
+mufumbwe dho,mushima,2009-12-05,2010-01-19,45
+mufumbwe dho,mushima,2010-01-01,2010-01-19,18
+mufumbwe dho,mushima,2010-02-02,2010-02-21,19
+mufumbwe dho,mushima,2010-03-03,2010-03-19,16
+mufumbwe dho,mushima,2010-04-01,2010-04-22,21
+mufumbwe dho,kabanda,2009-09-07,2009-09-23,16
+mufumbwe dho,kabanda,2009-10-05,2009-10-29,24
+mufumbwe dho,kabanda,2009-11-05,2009-11-30,25
+mufumbwe dho,kabanda,2009-12-05,2010-01-04,30
+mufumbwe dho,kabanda,2010-01-02,2010-01-04,2
+mufumbwe dho,kabanda,2010-02-02,2010-02-21,19
+mufumbwe dho,kabanda,2010-02-04,2010-02-21,17
+mufumbwe dho,kabanda,2010-04-04,2010-04-22,18
+mufumbwe dho,kashima,2009-09-07,2009-09-21,14
+mufumbwe dho,kashima,2009-10-05,2009-10-26,21
+mufumbwe dho,kashima,2009-11-03,2009-11-29,26
+mufumbwe dho,kashima,2009-12-04,2009-12-30,26
+mufumbwe dho,kashima,2010-01-04,2010-01-28,24
+mufumbwe dho,kashima,2010-02-02,2010-02-20,18
+mufumbwe dho,kashima,2010-03-05,2010-03-11,6
+mufumbwe dho,kashima,2010-04-01,2010-04-20,19
+mufumbwe dho,munyambala,2009-09-08,2009-09-21,13
+mufumbwe dho,munyambala,2009-10-07,2009-10-26,19
+mufumbwe dho,munyambala,2009-11-03,2009-11-29,26
+mufumbwe dho,munyambala,2009-12-02,2009-12-30,28
+mufumbwe dho,munyambala,2010-01-02,2010-01-15,13
+mufumbwe dho,munyambala,2010-02-01,2010-02-20,19
+mufumbwe dho,munyambala,2010-03-02,2010-03-11,9
+mufumbwe dho,munyambala,2010-04-05,2010-04-20,15
+mufumbwe dho,jivundu,2009-09-09,2009-11-29,81
+mufumbwe dho,jivundu,2009-10-12,2009-11-29,48
+mufumbwe dho,jivundu,2009-11-04,2009-11-29,25
+mufumbwe dho,jivundu,2009-12-04,2009-12-30,26
+mufumbwe dho,jivundu,2010-01-07,2010-01-21,14
+mufumbwe dho,jivundu,2010-02-04,2010-02-20,16
+mufumbwe dho,jivundu,2010-03-05,2010-03-11,6
+mufumbwe dho,miluji,2009-09-09,2009-09-11,2
+mufumbwe dho,miluji,2009-10-15,2009-11-13,29
+mufumbwe dho,miluji,2009-11-07,2009-11-13,6
+nakonde dho,chozi,2009-05-11,2009-05-15,4
+nakonde dho,chozi,2009-06-05,2009-07-07,32
+nakonde dho,chozi,2009-07-09,2009-07-22,13
+nakonde dho,chozi,2009-08-06,2009-08-26,20
+nakonde dho,chozi,2009-09-20,2009-09-29,9
+nakonde dho,chozi,2009-10-13,2009-10-23,10
+nakonde dho,chozi,2009-11-04,2009-11-25,21
+nakonde dho,chozi,2009-12-10,2009-12-24,14
+nakonde dho,chozi,2010-01-04,2010-01-28,24
+nakonde dho,chozi,2010-02-02,2010-02-19,17
+nakonde dho,chozi,2010-03-02,2010-03-19,17
+nakonde dho,chozi,2010-04-01,2010-04-26,25
+nakonde dho,nakonde,2009-05-08,2009-05-11,3
+nakonde dho,nakonde,2009-06-05,2009-06-19,14
+nakonde dho,nakonde,2009-07-05,2009-07-13,8
+nakonde dho,nakonde,2009-08-04,2009-08-17,13
+nakonde dho,nakonde,2009-09-06,2009-09-08,2
+nakonde dho,nakonde,2009-10-05,2009-10-09,4
+nakonde dho,nakonde,2009-11-06,2009-11-09,3
+nakonde dho,nakonde,2009-12-07,2009-12-11,4
+nakonde dho,nakonde,2010-01-05,2010-01-09,4
+nakonde dho,nakonde,2010-02-05,2010-02-08,3
+nakonde dho,nakonde,2010-03-06,2010-03-10,4
+nakonde dho,nakonde,2010-04-06,2010-04-13,7
+nakonde dho,mwenzo,2009-05-08,2009-05-11,3
+nakonde dho,mwenzo,2009-06-05,2009-06-16,11
+nakonde dho,mwenzo,2009-07-06,2009-07-17,11
+nakonde dho,mwenzo,2009-08-04,2009-08-20,16
+nakonde dho,mwenzo,2009-09-06,2009-09-15,9
+nakonde dho,mwenzo,2009-10-05,2009-10-08,3
+nakonde dho,mwenzo,2009-11-05,2009-11-12,7
+nakonde dho,mwenzo,2009-12-10,2009-12-30,20
+nakonde dho,mwenzo,2010-01-05,2010-01-22,17
+nakonde dho,mwenzo,2010-02-04,2010-02-10,6
+nakonde dho,mwenzo,2010-03-04,2010-03-11,7
+nakonde dho,mwenzo,2010-04-01,2010-04-12,11
+nakonde dho,chanka,2009-05-05,2009-05-28,23
+nakonde dho,chanka,2009-06-05,2009-06-17,12
+nakonde dho,chanka,2009-07-10,2009-07-24,14
+nakonde dho,chanka,2009-08-05,2009-08-28,23
+nakonde dho,chanka,2009-09-14,2009-09-28,14
+nakonde dho,chanka,2009-10-10,2009-10-22,12
+nakonde dho,chanka,2009-11-05,2009-11-30,25
+nakonde dho,chanka,2009-12-08,2009-12-29,21
+nakonde dho,chanka,2010-01-08,2010-01-19,11
+nakonde dho,chanka,2010-02-07,2010-02-22,15
+nakonde dho,chanka,2010-03-04,2010-03-16,12
+nakonde dho,chanka,2010-04-06,2010-04-22,16
+nakonde dho,waitwika,2009-05-05,2009-05-15,10
+nakonde dho,waitwika,2009-06-05,2009-06-18,13
+nakonde dho,waitwika,2009-07-09,2009-07-20,11
+nakonde dho,waitwika,2009-08-04,2009-08-24,20
+nakonde dho,waitwika,2009-09-07,2009-09-21,14
+nakonde dho,waitwika,2009-10-06,2009-10-16,10
+nakonde dho,waitwika,2009-11-03,2009-11-23,20
+nakonde dho,waitwika,2009-12-07,2009-12-21,14
+nakonde dho,waitwika,2010-01-04,2010-01-29,25
+nakonde dho,waitwika,2010-02-04,2010-02-17,13
+nakonde dho,waitwika,2010-03-05,2010-03-12,7
+nakonde dho,waitwika,2010-04-03,2010-04-19,16
+nakonde dho,ntatumbila,2009-05-08,2009-05-20,12
+nakonde dho,ntatumbila,2009-06-08,2009-06-15,7
+nakonde dho,ntatumbila,2009-07-09,2009-07-22,13
+nakonde dho,ntatumbila,2009-08-05,2009-08-31,26
+nakonde dho,ntatumbila,2009-09-15,2009-09-18,3
+nakonde dho,ntatumbila,2009-10-12,2009-10-27,15
+nakonde dho,ntatumbila,2009-11-04,2009-11-18,14
+nakonde dho,ntatumbila,2009-12-09,2009-12-18,9
+nakonde dho,ntatumbila,2010-01-05,2010-01-28,23
+nakonde dho,ntatumbila,2010-02-04,2010-02-16,12
+nakonde dho,ntatumbila,2010-03-03,2010-03-15,12
+nakonde dho,ntatumbila,2010-04-05,2010-04-20,15
+nakonde dho,chilolwa,2009-05-18,2009-06-01,14
+nakonde dho,chilolwa,2009-06-05,2009-06-18,13
+nakonde dho,chilolwa,2009-07-09,2009-07-20,11
+nakonde dho,chilolwa,2009-08-05,2009-08-21,16
+nakonde dho,chilolwa,2009-09-08,2009-09-23,15
+nakonde dho,chilolwa,2009-10-06,2009-10-21,15
+nakonde dho,chilolwa,2009-11-05,2009-11-26,21
+nakonde dho,chilolwa,2009-12-08,2009-12-28,20
+nakonde dho,chilolwa,2010-01-06,2010-01-28,22
+nakonde dho,chilolwa,2010-02-05,2010-02-23,18
+nakonde dho,chilolwa,2010-03-05,2010-03-18,13
+nakonde dho,chilolwa,2010-04-05,2010-04-23,18
+nakonde dho,shem,2009-05-11,2009-05-19,8
+nakonde dho,shem,2009-06-08,2009-06-17,9
+nakonde dho,shem,2009-07-10,2009-07-24,14
+nakonde dho,shem,2009-08-05,2009-08-25,20
+nakonde dho,shem,2009-09-15,2009-09-25,10
+nakonde dho,shem,2009-10-10,2009-10-19,9
+nakonde dho,shem,2009-11-03,2009-11-20,17
+nakonde dho,shem,2009-12-08,2009-12-25,17
+nakonde dho,shem,2010-01-04,2010-01-14,10
+nakonde dho,shem,2010-02-04,2010-02-08,4
+nakonde dho,shem,2010-03-02,2010-03-14,12
+nakonde dho,shem,2010-04-05,2010-04-16,11
+shangombo dho,silowana,2009-07-04,2009-08-04,31
+shangombo dho,silowana,2009-08-04,2009-09-07,34
+shangombo dho,silowana,2009-09-04,2009-09-07,3
+shangombo dho,silowana,2009-10-05,2009-10-26,21
+shangombo dho,silowana,2009-11-02,2009-11-10,8
+shangombo dho,silowana,2009-12-02,2010-01-09,38
+shangombo dho,silowana,2010-01-13,2010-02-10,28
+shangombo dho,mbanda,2009-07-05,2009-08-04,30
+shangombo dho,mbanda,2009-08-04,2009-09-07,34
+shangombo dho,mbanda,2009-09-04,2009-09-07,3
+shangombo dho,mbanda,2009-10-05,2009-10-27,22
+shangombo dho,mbanda,2009-11-04,2009-11-26,22
+shangombo dho,mbanda,2009-12-04,2009-12-20,16
+shangombo dho,nalwashi,2009-07-04,2009-08-04,31
+shangombo dho,nalwashi,2009-08-04,2009-09-07,34
+shangombo dho,nalwashi,2009-09-04,2009-09-07,3
+shangombo dho,nalwashi,2009-10-05,2009-10-06,1
+shangombo dho,nalwashi,2009-11-02,2009-11-10,8
+shangombo dho,nalwashi,2009-12-02,2009-12-15,13
+shangombo dho,nalwashi,2010-01-11,2010-01-14,3
+shangombo dho,shangombo,2009-07-04,2009-08-04,31
+shangombo dho,shangombo,2009-08-01,2009-08-04,3
+shangombo dho,shangombo,2009-09-04,2009-09-07,3
+shangombo dho,shangombo,2009-10-04,2009-10-10,6
+shangombo dho,shangombo,2009-11-04,2009-11-11,7
+shangombo dho,mulonga,2009-07-04,2009-08-04,31
+shangombo dho,mulonga,2009-08-12,2009-08-16,4
+shangombo dho,mulonga,2009-09-04,2009-09-07,3
+shangombo dho,mulonga,2009-10-07,2009-10-28,21
+shangombo dho,mulonga,2009-12-05,2010-01-09,35
+shangombo dho,mulonga,2010-01-05,2010-01-09,4
+shangombo dho,mulonga,2010-02-05,2010-02-10,5
+shangombo dho,sitoti,2009-07-04,2009-07-29,25
+shangombo dho,sitoti,2009-08-04,2009-09-07,34
+shangombo dho,sitoti,2009-09-04,2009-09-07,3
+shangombo dho,sitoti,2009-10-04,2009-10-05,1
+shangombo dho,sitoti,2009-11-01,2009-11-10,9
+shangombo dho,sitoti,2009-12-01,2009-12-15,14
+shangombo dho,sitoti,2010-01-07,2010-01-11,4
+shangombo dho,sitoti,2010-02-15,2010-02-25,10
+shangombo dho,mutomena,2009-07-04,2009-08-04,31
+shangombo dho,mutomena,2009-08-04,2009-09-07,34
+shangombo dho,mutomena,2009-09-04,2009-09-07,3
+shangombo dho,mutomena,2009-10-05,2009-10-28,23
+shangombo dho,mutomena,2009-12-05,2010-01-17,43
+shangombo dho,mutomena,2010-01-14,2010-01-17,3
+shangombo dho,nangweshi,2009-07-04,2009-07-29,25
+shangombo dho,nangweshi,2009-08-04,2009-09-07,34
+shangombo dho,nangweshi,2009-09-02,2009-09-07,5
+shangombo dho,nangweshi,2009-10-04,2009-10-05,1
+shangombo dho,nangweshi,2009-11-01,2009-11-10,9
+shangombo dho,nangweshi,2009-12-01,2009-12-15,14
+shangombo dho,nangweshi,2010-01-04,2010-01-12,8
+shangombo dho,nangweshi,2010-02-04,2010-02-08,4
+shangombo dho,nangweshi,2010-03-22,2010-03-24,2
+shangombo dho,sioma,2009-07-05,2009-07-18,13
+shangombo dho,sioma,2009-08-05,2009-08-15,10
+shangombo dho,sioma,2009-09-02,2009-09-07,5
+shangombo dho,sioma,2009-10-05,2009-10-27,22
+shangombo dho,sioma,2009-11-01,2009-11-22,21
+shangombo dho,sioma,2010-01-02,2010-01-06,4
+shangombo dho,sioma,2010-01-04,2010-01-06,2
+shangombo dho,sioma,2010-02-04,2010-02-09,5
+shangombo dho,sioma,2010-03-22,2010-03-24,2
+shangombo dho,sioma,2010-04-06,2010-04-21,15
+shangombo dho,kaanja,2009-08-01,2009-08-04,3
+shangombo dho,kaanja,2009-09-04,2009-09-07,3
+shangombo dho,kaanja,2009-10-04,2009-10-27,23
+shangombo dho,kaanja,2009-11-01,2009-11-22,21
+shangombo dho,kaanja,2009-12-01,2010-01-13,43
+shangombo dho,kaanja,2010-01-04,2010-01-13,9
+shangombo dho,kaanja,2010-02-04,2010-02-08,4
+shangombo dho,sipuma,2009-09-02,2009-09-07,5
+shangombo dho,sipuma,2009-10-07,2009-10-09,2
+shangombo dho,sipuma,2009-11-03,2009-11-11,8
+shangombo dho,sipuma,2009-12-03,2009-12-18,15
+shangombo dho,sipuma,2010-01-05,2010-01-16,11
+shangombo dho,kaunga mashi,2009-08-12,2009-09-07,26
+shangombo dho,kaunga mashi,2009-10-01,2009-10-09,8
+shangombo dho,kaunga mashi,2009-12-01,2009-12-19,18
+shangombo dho,kaunga mashi,2010-01-05,2010-01-15,10
+shangombo dho,kaunga mashi,2010-02-05,2010-02-15,10
+shangombo dho,sinjembela,2009-08-07,2009-09-07,31
+shangombo dho,sinjembela,2009-09-04,2009-09-07,3
+shangombo dho,sinjembela,2009-10-07,2009-10-12,5
+shangombo dho,sinjembela,2009-11-09,2009-11-22,13
+shangombo dho,sinjembela,2009-12-05,2009-12-17,12
