@@ -1,5 +1,5 @@
-[comment]: <> (Please also refer to the Google document)
-[comment]: <> ("GitHub data files for MSOM paper Zambia")
+[comment]: # (Please also refer to the Google document)
+[comment]: # ("GitHub data files for MSOM paper Zambia")
 
 This dataset contains data concerning the Zambia public sector supply chain for essential medical drugs and supplies.
 
