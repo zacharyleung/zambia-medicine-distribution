@@ -1,10 +1,22 @@
 #!/bin/bash
 
-cp ~/git/zambia-paper/data/clean/district-configuration.csv .
-cp ~/git/zambia-paper/data/clean/facility-accessibility.csv .
-cp ~/git/zambia-paper/data/clean/facility-deliveries.csv .
-cp ~/git/zambia-paper/data/clean/facility-reports.csv .
-cp ~/git/zambia-paper/data/clean/msl-deliveries.csv .
-cp ~/git/zambia-paper/data/compute/lead-times.csv facility-lead-times.csv
+#rm *.csv
+
+rsync -cv ~/git/zambia-paper/data/raw/facility-demand-17.csv \
+    reference-facilities-daily-demand-mean.csv
+
+rsync -cv ~/git/zambia-paper/data/clean/facility-demand-17-weekly-normalized.csv \
+    reference-facilities-normalized-weekly-demand-mean.csv
+
+rsync -cv \
+    ~/git/zambia-paper/data/stock-card-transactions/zach.csv \
+    stock-card-transactions.csv
+
+rsync -cv \
+    ~/git/zambia-paper/msom/data.md \
+    README.md
+
+
+
 
 
