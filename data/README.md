@@ -37,6 +37,13 @@ data table has the following columns:
 
 # reference-facilities-daily-demand-mean.csv
 
+The daily demand mean for the reference facilities
+data table has the following columns:
+
+ - **district**: the district that the facility is in
+ - **facility**: the name of the facility
+ - **t** for $t = 1, 2, \ldots, 365$: the estimated daily demand mean in day $t$
+
 LaTeX
 The file \texttt{reference-facilities-daily-demand-mean.csv} contains
 the resulting average daily demand estimates for these facilities.
@@ -44,6 +51,9 @@ the resulting average daily demand estimates for these facilities.
 
 
 # reference-facilities-normalized-weekly-demand-mean.csv
+
+The normalized weekly demand mean for the reference facilities
+data table has the following columns:
 
 By aggregating this data at the weekly level and normalizing these curves so that the mean weekly demand equals one, we thus obtained 17 different seasonality patterns associated with these specific locations. This data can be accessed from the file \texttt{reference-facilities-normalized-weekly-demand-mean.csv}
 
