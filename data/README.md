@@ -3,18 +3,43 @@
 
 This dataset contains data concerning the Zambia public sector supply chain for essential medical drugs and supplies.
 
-# facility-accessibility.csv
 
-The facility accessibility
+
+
+
+# facility-data.csv
+
+The `facility data`
 data table has the following columns:
 
  - **district**: the district that the facility is in
  - **facility**: the name of the facility
- - **Xi** (for i = 1, 2, ..., 12): the probability that the facility will
+ - **catchment**: the catchment population of that facility
+ - **daily_patients**:
+   the average number of patients visiting the facility daily,
+   as reported from a survey of local health personnel
+   conducted by all commodity planners in their respective districts
+   in the Fall of 2009
+ - **incidence**:
+   the estimated number of malaria cases per 1000 people per year,
+   in each district of Zambia,
+   as estimated by the 2006 epidemiological survey of
+   Zambia's health centers obtained from the Ministry of Health
+ - **yearly_demand_stockcards**:
+   The estimated yearly demand for Artemether/lumefantrine
+   as estimated from the stock control cards,
+   in units of adult doses.
+   If there is a lack of sufficient stock card data
+   to obtain an accurate estimate of this quantity,
+   then this value is set to `NA`
+ - **latitude**: the latitude of this facility
+ - **longitude**: the longitude of this facility
+ - **shape**: the facility was assigned a demand shape index shape
+ - **Xi** (for i = 1, 2, …, 12): the probability that the facility will
     be accessible for a delivery of medical drugs and supplies by the
     DHO in month i of the year
- - **has_full_accessibility**: `has_full_accessibility = TRUE` if `Xi = 1`
-    for all i = 1, 2, ..., 12, and `has_full_accessibility = FALSE` otherwise
+
+
 
 
 
@@ -28,10 +53,18 @@ data table has the following columns:
    `xdock` (cross-docking) or `istock` (intermediate stocking)
  - **facility**: the name of the facility
  - **has_full_accessibility**: `has_full_accessibility = TRUE` if `Xi = 1`
-    for all i = 1, 2, ..., 12, and `has_full_accessibility = FALSE` otherwise
+    for all i = 1, 2, …, 12, and `has_full_accessibility = FALSE` otherwise
  - **start_date**: the date when a shipment arrived at the DHO
  - **end_date**: the date when a shipment was delivered to the facility
  - **lead_time_days**: the lead times in days for a shipment
+
+
+
+
+
+# facility-weekly-demand-mean.csv
+
+
 
 
 
@@ -42,28 +75,57 @@ data table has the following columns:
 
  - **district**: the district that the facility is in
  - **facility**: the name of the facility
- - **t** for $t = 1, 2, \ldots, 365$: the estimated daily demand mean in day $t$
+ - **t** for t = 1, 2, …, 365: the estimated daily demand mean in day **t**
 
-LaTeX
-The file \texttt{reference-facilities-daily-demand-mean.csv} contains
-the resulting average daily demand estimates for these facilities.
 
 
 
 # reference-facilities-normalized-weekly-demand-mean.csv
 
+For the 17 reference facilities,
+we aggregate the daily demand mean into 48 "weeks",
+and normalize the weekly demand mean so that
+the mean weekly demand equals one.
+This gives us 17 demand "shapes"
 The normalized weekly demand mean for the reference facilities
 data table has the following columns:
 
-By aggregating this data at the weekly level and normalizing these curves so that the mean weekly demand equals one, we thus obtained 17 different seasonality patterns associated with these specific locations. This data can be accessed from the file \texttt{reference-facilities-normalized-weekly-demand-mean.csv}
+ - **district**: the district that the facility is in
+ - **facility**: the name of the facility
+ - **shape**: the unique shape number *i* of the facility, with
+   *i* = 1, 2, …, 17
+ - **Vk** for **k** = 1, 2, …, 48:
+   the estimated normalized weekly demand mean in week **k**
 
 
 
 
 
-# stock-cards-transactions.csv
+# secondary-leadtimes-historical-data.csv
 
-The stock cards
+ - **district**: the district that the facility is in
+ - **configuration**: the configuration used by the district, either
+   `xdock` (cross-docking) or `istock` (intermediate stocking)
+ - **facility**: the name of the facility
+ - **facility_has_full_accessibility**:
+   `has_full_accessibility = TRUE` if `Xi = 1`
+   for all i = 1, 2, …, 12, and `has_full_accessibility = FALSE` otherwise
+ - **start_date**:
+   if **configuration** = `istock`,
+   then **start_date** = the date when the facility report was received;
+   if **configuration** = `xdock`,
+   then **start_date** = the date when MSL delivered to the district.
+ - **end_date**:
+   the date when the district delivered to the facility
+ - **lead_time_days**:
+   the lead time in days, equal to **end_date** minus **start_date**
+
+
+
+
+# stock-cards-all.csv
+
+The `stock cards transactions`
 data table has the following columns:
 
  - **file_name**:
