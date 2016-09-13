@@ -12,10 +12,23 @@ This dataset contains data concerning the Zambia public sector supply chain for 
 The `district data`
 data table has the following columns:
 
- - **district**: the district that the facility is in
- - **order_offset**:
- - primary lead time (number of weeks)
- - mean secondary lead time (number of weeks)
+ - **district**: the name of the district
+ - **order_offset**: see note below
+ - primary_leadtime:
+   the primary lead time expressed as a number of timesteps
+ - mean_secondary_leadtime (number of timesteps)
+   the mean secondary lead time expressed as a number of timesteps
+
+Note that in the simulator,
+it is assumed that there are 48 timesteps in a year.
+In the real world,
+each district receives a shipment every month.
+This is modeled in the simulator in the following way.
+A given district *k* will submit orders in timesteps *t* where
+*t* ≡ *oₖ* (mod 4),
+where *oₖ* ∈ {0, 1, 2, 3} is the order offset for district *k*.
+
+
 
 
 # facility-data.csv
@@ -49,25 +62,6 @@ data table has the following columns:
  - **Xi** (for i = 1, 2, …, 12): the probability that the facility will
     be accessible for a delivery of medical drugs and supplies by the
     DHO in month i of the year
-
-
-
-
-
-# facility-lead-times.csv
-
-The facility lead times 
-data table has the following columns:
-
- - **district**: the district that the facility is in
- - **configuration**: the configuration used by the district, either
-   `xdock` (cross-docking) or `istock` (intermediate stocking)
- - **facility**: the name of the facility
- - **has_full_accessibility**: `has_full_accessibility = TRUE` if `Xi = 1`
-    for all i = 1, 2, …, 12, and `has_full_accessibility = FALSE` otherwise
- - **start_date**: the date when a shipment arrived at the DHO
- - **end_date**: the date when a shipment was delivered to the facility
- - **lead_time_days**: the lead times in days for a shipment
 
 
 

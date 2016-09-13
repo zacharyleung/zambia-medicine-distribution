@@ -29,6 +29,7 @@ rsync -cv \
 rsync -cv \
     ~/git/zambia-paper/data/stock-card-transactions/zach.csv \
     stock-card-all.csv
+
 rsync -cv \
     ~/git/zambia-paper/data/stock-card-transactions/zach.csv \
     stock-card-all.csv
