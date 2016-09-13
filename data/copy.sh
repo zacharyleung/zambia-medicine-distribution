@@ -7,6 +7,14 @@ rsync -cv \
     README.md
 
 rsync -cv \
+    ~/git/zambia-paper/data/lead-time/replenishment.csv \
+    district-data.csv
+
+rsync -cv \
+    ~/git/zambia-paper/data/lead-time/raw/primary-leadtimes.csv \
+    primary-leadtimes-historical-data.csv
+
+rsync -cv \
     ~/git/zambia-paper/data/msom/facility-data.csv \
     .
 

@@ -7,6 +7,17 @@ This dataset contains data concerning the Zambia public sector supply chain for 
 
 
 
+# district-data.csv
+
+The `district data`
+data table has the following columns:
+
+ - **district**: the district that the facility is in
+ - **order_offset**:
+ - primary lead time (number of weeks)
+ - mean secondary lead time (number of weeks)
+
+
 # facility-data.csv
 
 The `facility data`
@@ -63,6 +74,24 @@ data table has the following columns:
 
 
 # facility-weekly-demand-mean.csv
+
+
+
+
+# primary-leadtimes-historical-data.csv
+
+The `primary lead times historical data`
+data table has the following columns:
+
+ - **district**: the district
+ - **submit**: the deadline by which the district needs to submit an
+   order to MSL
+ - **receive**: the date at which MSL will deliver a shipment to
+   the district
+
+Note that this table only includes the first shipment
+with a submission deadline in the month of January 2009.
+
 
 
 
