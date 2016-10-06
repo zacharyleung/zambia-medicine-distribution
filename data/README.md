@@ -14,9 +14,9 @@ data table has the following columns:
 
  - **district**: the name of the district
  - **order_offset**: see note below
- - primary_leadtime:
+ - **primary_leadtime**:
    the primary lead time expressed as a number of timesteps
- - mean_secondary_leadtime (number of timesteps)
+ - **mean_secondary_leadtime**:
    the mean secondary lead time expressed as a number of timesteps
 
 Note that in the simulator,
@@ -25,8 +25,8 @@ In the real world,
 each district receives a shipment every month.
 This is modeled in the simulator in the following way.
 A given district *k* will submit orders in timesteps *t* where
-*t* ≡ *oₖ* (mod 4),
-where *oₖ* ∈ {0, 1, 2, 3} is the order offset for district *k*.
+*t* ≡ `o_k` (mod 4),
+where `o_k` ∈ {0, 1, 2, 3} is the order offset for district *k*.
 
 
 
@@ -78,14 +78,12 @@ The `primary lead times historical data`
 data table has the following columns:
 
  - **district**: the district
- - **submit**: the deadline by which the district needs to submit an
-   order to MSL
- - **receive**: the date at which MSL will deliver a shipment to
-   the district
-
-Note that this table only includes the first shipment
-with a submission deadline in the month of January 2009.
-
+ - **year**, **cycle**: the year and cycle number
+   of the particular delivery to the district
+ - **order_submission_date**:
+   the deadline by which the district needs to submit an order to MSL
+ - **expected_district_delivery_date**:
+   the date at which MSL is expected to deliver a shipment to the district
 
 
 
