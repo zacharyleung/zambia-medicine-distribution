@@ -15,16 +15,17 @@ data table has the following columns:
  - **district**: the name of the district
  - **order_offset**: see note below
  - **primary_leadtime**:
-   the primary lead time expressed as a number of timesteps
+   the primary lead time expressed as a number of weeks
  - **mean_secondary_leadtime**:
-   the mean secondary lead time expressed as a number of timesteps
+   the mean secondary lead time computed over fully accessible
+   facilities in that district, expressed as a number of weeks
 
 Note that in the simulator,
-it is assumed that there are 48 timesteps in a year.
+it is assumed that there are 48 weeks in a year.
 In the real world,
 each district receives a shipment every month.
 This is modeled in the simulator in the following way.
-A given district *k* will submit orders in timesteps *t* where
+A given district *k* will submit orders in weeks *t* where
 *t* ≡ `o_k` (mod 4),
 where `o_k` ∈ {0, 1, 2, 3} is the order offset for district *k*.
 

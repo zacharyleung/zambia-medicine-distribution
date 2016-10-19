@@ -1,4 +1,4 @@
-district,year,cycle,order_submission_date,expected_district_delivery_date
+district,year,monthly_delivery_cycle,order_submission_date,expected_district_delivery_date
 Chama,2009,1,2008-12-30,2009-01-15
 Chavuma,2009,1,2008-12-30,2009-01-15
 Kabompo,2009,1,2008-12-30,2009-01-14
