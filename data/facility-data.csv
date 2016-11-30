@@ -1,4 +1,4 @@
-district,facility,catchment,daily_patients,incidence,yearly_demand_stockcards,latitude,longitude,shape,X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12
+district,facility,catchment,daily_patients,incidence,yearly_demand_stockcards,latitude,longitude,shape,AccessibilityMonth1,AccessibilityMonth2,AccessibilityMonth3,AccessibilityMonth4,AccessibilityMonth5,AccessibilityMonth6,AccessibilityMonth7,AccessibilityMonth8,AccessibilityMonth9,AccessibilityMonth10,AccessibilityMonth11,AccessibilityMonth12
 chama dho,buli,3586,14,813.0001,NA,-11.200765,33.150401,16,0,0,0,0.75,1,1,1,1,1,1,1,0.5
 chama dho,chibale,8495,33,813.0001,4723.110133,-11.8705,32.57205,1,1,1,1,1,1,1,1,1,1,1,1,1
 chama dho,chifunda,5215,32,813.0001,2081.913933,-11.675916,32.7715,2,0,0,0,0,0.5,1,1,1,1,1,1,0.5
@@ -54,9 +54,9 @@ kaoma dho,longe,5333,80,452.2915,NA,-15.017018,24.1507,5,1,1,1,1,1,1,1,1,1,1,1,1
 kaoma dho,luampa,NA,30,452.2915,NA,NA,NA,5,1,1,1,1,1,1,1,1,1,1,1,1
 kaoma dho,luena camp,46000,200,452.2915,NA,-14.654433,24.5069,3,1,1,1,1,1,1,1,1,1,1,1,1
 kaoma dho,lui,4200,120,452.2915,NA,NA,NA,3,1,1,1,1,1,1,1,1,1,1,1,1
-kaoma dho,mangango,6851,30,452.2915,NA,-14.551216,24.184216,11,1,1,1,1,1,1,1,1,1,1,1,1
+kaoma dho,mangango mission hospital,6851,30,452.2915,NA,-14.551216,24.184216,11,1,1,1,1,1,1,1,1,1,1,1,1
 kaoma dho,mayukwayukwa 1,76000,200,452.2915,NA,-16.100055,23.300093,15,1,1,1,1,1,1,1,1,1,1,1,1
-kaoma dho,mayukwayukwa 2 (aha),6888,90,452.2915,NA,-14.950233,24.333508,16,1,1,1,1,1,1,1,1,1,1,1,1
+kaoma dho,aha,6888,90,452.2915,NA,-14.950233,24.333508,16,1,1,1,1,1,1,1,1,1,1,1,1
 kaoma dho,mbanyutu,6973,100,452.2915,NA,-14.916885,24.016893,8,1,1,1,1,1,1,1,1,1,1,1,1
 kaoma dho,mulamba,NA,130,452.2915,NA,NA,NA,9,1,1,1,1,1,1,1,1,1,1,1,1
 kaoma dho,mulwa,NA,30,452.2915,NA,NA,NA,7,1,1,1,1,1,1,1,1,1,1,1,1
@@ -135,7 +135,7 @@ mkushi dho,nkumbi,12953,60,458.9086,NA,-13.775317,29.819417,9,1,1,1,1,1,1,1,1,1,
 mkushi dho,nshinso,NA,20,458.9086,NA,-14.367533,29.364833,10,1,1,1,1,1,1,1,1,1,1,1,1
 mkushi dho,old mkushi,6386,20,458.9086,NA,-13.627667,29.393717,3,1,1,1,1,1,1,1,1,1,1,1,1
 mkushi dho,twatasha,NA,40,458.9086,NA,NA,NA,3,1,1,1,1,1,1,1,1,1,1,1,1
-mufumbwe dho,boma,8442,45,352.4039,1624.31,-13.1038,24.69065,7,1,1,1,1,1,1,1,1,1,1,1,1
+mufumbwe dho,boma,8442,45,352.4039,NA,-13.1038,24.69065,7,1,1,1,1,1,1,1,1,1,1,1,1
 mufumbwe dho,jivundu,100,10,352.4039,NA,-13.644333,25.4214,5,0.25,0.25,0.25,0.75,1,1,1,1,1,1,0.75,0.5
 mufumbwe dho,kabanda,2456,25,352.4039,NA,-13.683947,24.96769,8,0.25,0.25,0.25,0.75,1,1,1,1,1,1,1,0.75
 mufumbwe dho,kabipupu,3287,25,352.4039,NA,-13.463033,25.002017,3,0.25,0.25,0.5,1,1,1,1,1,1,1,0.75,0.5
