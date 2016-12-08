@@ -2,17 +2,19 @@
 
 #rm *.csv
 
-rsync -cv \
-    ~/git/zambia-paper/msom/data.md \
+#rsync -cv \
+cp \
+    ~/git/zambia-paper/data-new/lead-time/primary-historical-leadtimes.csv \
+    primary-leadtimes-historical-data.csv
+
+#rsync -cv \
+cp \
+    ~/git/zambia-paper/data-new/msom.md \
     README.md
 
 rsync -cv \
     ~/git/zambia-paper/data/lead-time/replenishment.csv \
     district-data.csv
-
-rsync -cv \
-    ~/git/zambia-paper/data/lead-time/raw/primary-leadtimes.csv \
-    primary-leadtimes-historical-data.csv
 
 rsync -cv \
     ~/git/zambia-paper/data/msom/facility-data.csv \

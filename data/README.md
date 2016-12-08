@@ -3,6 +3,7 @@
 
 This dataset contains data concerning the Zambia public sector supply chain for essential medical drugs and supplies.
 
+Medical Stores Limited (MSL) is an autonomous government agency established by an act of Parliament with the express objective of furnishing to the nation good quality drugs and medical equipment at accessible prices, made available through approved government and non-government agencies throughout Zambia.
 
 
 
@@ -75,12 +76,18 @@ data table has the following columns:
 
 # primary-leadtimes-historical-data.csv
 
+Each year, MSL is scheduled to make 12 deliveries to each district.
+To define each delivery,
+it is convenient for each delivery to have a *delivery cycle*,
+which is a number from 1, 2, …, 12.
+The combination of a delivery year and delivery cycle
+uniquely defines a particular delivery to a particular district.
 The `primary lead times historical data`
 data table has the following columns:
 
- - **district**: the district
- - **year**, **cycle**: the year and cycle number
-   of the particular delivery to the district
+ - **district**: the district that MSL is delivering to
+ - **district_year**: the year of the delivery
+ - **delivery_cycle**: the cycle number of the delivery
  - **order_submission_date**:
    the deadline by which the district needs to submit an order to MSL
  - **expected_district_delivery_date**:
